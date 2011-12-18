@@ -624,9 +624,6 @@
   <string name="no_internet_available">Для Интернет-вызова сначала проверьте соединение Интернет</string>
   <string name="no_wifi_available">Вы должны быть подключены к сети Wi-Fi для интернет-вызова</string>
   <string name="no_voip">Интернет-вызов не поддерживается</string>
-  <string name="sip_always">SIP_ALWAYS</string>
-  <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-  <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
   <string name="sip_system_decide">Автоматически</string>
   <string name="sip_always_send_keepalive">Всегда отправлять</string>
   <string name="domain_address">SIP Домен</string>
@@ -636,7 +633,6 @@
   <string name="proxy_address">Адрес прокси</string>
   <string name="port">Порт</string>
   <string name="transport">Протокол</string>
-  <string name="send_keepalive">SendKeepAlive</string>
   <string name="auto_registration">Авторегистрация</string>
   <string name="set_primary">Задать первичный</string>
   <string name="advanced_settings_container">Расширенные настройки</string>
