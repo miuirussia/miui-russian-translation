@@ -192,7 +192,7 @@
   <string name="webpage_notitle">Без названия</string>
   <string name="tip_enter_full_screen_mode">Нажмите кнопку в правом углу, чтобы выйти из полного экрана</string>
   <string name="email_subject">Отзывы о MIUI Браузере</string>
-  <string name="email_body">Website feedback: \n%s\n Please leave your feedback: \n\n</string>
+  <string name="email_body">Website feedback: \n%s\n Пожалуйста, оставьте ваши отзывы: \n\n</string>
   <string name="submit">Подтвердить</string>
   <string name="homepage_title">Домашняя</string>
   <string name="reading_cached">Сохраненых страниц: %d</string>
@@ -227,7 +227,7 @@
   <string name="loading_video">Загрузка видео</string>
   <string name="home_page_title">Домашняя страница</string>
   <string name="yellow_page_title">Популярные сайты</string>
-  <string name="forum_post_info">\\n\\n\\n[size=2][color=Silver]—— Sent From The MIUI Browser[/color][/size]</string>
+  <string name="forum_post_info">\\n\\n\\n[size=2][color=Silver]—— Отправлено из браузера MIUI[/color][/size]</string>
   <string name="rss_tab_hot">Популярные</string>
   <string name="setting_common">Общие</string>
   <string name="setting_advanced">Дополнительные</string>
@@ -243,7 +243,7 @@
   <string name="pre_exit_confirmation_summary">Подтверждение перед выходом</string>
   <string name="file_picker_new_folder">Новая папка</string>
   <string name="file_picker_sdcard_not_found">SD-карта не найдена, пожалуйста, проверьте, подключено ли устройство к ПК</string>
-  <string name="pref_about_message_credit">Special Thanks: jpsiemer@XDA</string>
+  <string name="pref_about_message_credit">Особая благодарность: jpsiemer@XDA</string>
   <string name="find_dot">Поиск на странице</string>
   <string name="no_match">Не совпадает</string>
   <string name="one_match">1 совпадение</string>
@@ -295,7 +295,7 @@
   <string name="permdesc_downloadCompletedIntent">разрешить посылать приложению сообщение о завершении загрузки</string>
   <string name="download_unknown_title">&lt;Без названия&gt;</string>
   <string name="notification_filename_separator">,\u0020</string>
-  <string name="notification_filename_extras">\u0020и %d download</string>
+  <string name="notification_filename_extras">\u0020и %d загрузка</string>
   <string name="notification_download_complete">загрузка завершена</string>
   <string name="notification_download_failed">сбой загрузки</string>
 </resources>
