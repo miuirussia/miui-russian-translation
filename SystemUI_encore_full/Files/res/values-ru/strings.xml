@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
+  <string name="app_label">Строка состояния</string>
+  <string name="status_bar_clear_all_button">Очистить</string>
+  <string name="status_bar_no_notifications_title">Нет уведомлений</string>
+  <string name="status_bar_ongoing_events_title">Текущие</string>
+  <string name="status_bar_latest_events_title">Уведомления</string>
+  <string name="battery_low_title">Подключите зарядное устройство</string>
+  <string name="battery_low_subtitle">Батарея разряжена:</string>
+  <string name="battery_low_percent_format">Осталось %d%% или меньше</string>
+  <string name="battery_low_why">Статистика</string>
+  <string name="tab_notifications_lable">Уведомления</string>
+  <string name="tab_toggles_lable">Переключатели</string>
+  <string name="tab_apps_lable">Приложения</string>
+  <string name="apps_clean_title">Закрыть все приложения</string>
+  <string name="apps_clean_current_memory">Сейчас доступно памяти %1$s</string>
+  <string name="apps_clean_result">Освобождено %1$s\nДоступно：%2$s</string>
+  <string name="status_bar_time_format_12">h:mma</string>
+  <string name="status_bar_time_format_24">H:mm</string>
+  <string name="status_bar_date_format">d MMMM yyyy</string>
+  <string name="status_bar_date_format_lock"></string>
+  <string name="usb_accessory_permission_prompt">Разрешить приложению %1$s доступ к USB-аксессуарам?</string>
+  <string name="usb_device_confirm_prompt">Открыть %1$s, когда это устройство USB подключено?</string>
+  <string name="usb_accessory_confirm_prompt">Открыть %1$s, когда этот USB-аксессуар подключен?</string>
+  <string name="usb_accessory_uri_prompt">Нет установленных приложений работы с этим USB аксессуаром. Узнайте больше об этом аксессуаре на %1$s</string>
+  <string name="title_usb_accessory">USB-аксессуар</string>
+  <string name="label_view">Вид</string>
+  <string name="always_use_accessory">Использование по умолчанию для этого USB-аксессуара</string>
+  <string name="usb_mode_notification">Режим накопителя</string>
+  <string name="usb_mode_mount_storage_summary">Программы на карте памяти не смогут работать</string>
+  <string name="usb_mode_dont_ask">Не спрашивать в следующий раз</string>
+  <string name="usb_mode_mount_storage_title">Хотите включить режим накопителя?</string>
+  <string name="mount_storage">Подключить</string>
+  <string name="dismount_storage">Не подключать</string>
+  <string name="move_data_to_sdcard_title">Перенос данных на SD-карту</string>
+  <string name="move_data_to_sdcard_message">Скриншоты и фотографии будут перенесены на SD-карту, чтобы освободить больше внутренней памяти</string>
+  <string name="dummy_carrier"/>
+</resources>

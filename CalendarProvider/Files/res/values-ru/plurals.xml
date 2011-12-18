@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <plurals name="gadget_more_events">
+        <item quantity="other">Еще мероприятий: %d</item>
+        <item quantity="one">Еще 1 мероприятие</item>
+    </plurals>
+</resources>

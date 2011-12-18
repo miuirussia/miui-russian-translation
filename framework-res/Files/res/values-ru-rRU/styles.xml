@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <style name="TextViewFloatPanelButton">
+        <item name="textAppearance">@style/TextAppearance.Small</item>
+        <item name="textColor">@color/textview_floatpanel_button_text_color</item>
+        <item name="gravity">center</item>
+        <item name="background">@drawable/textview_floatpanel_button_bg</item>
+        <item name="paddingLeft">5.0dip</item>
+        <item name="paddingRight">5.0dip</item>
+        <item name="layout_width">wrap_content</item>
+        <item name="layout_height">wrap_content</item>
+        <item name="minHeight">38.0dip</item>
+        <item name="singleLine">true</item>
+        <item name="shadowColor">#ccffffff</item>
+        <item name="shadowDy">1.0</item>
+        <item name="shadowRadius">0.2</item>
+    </style>
+    <style name="TextAppearance.UnderIcon" parent="@style/TextAppearance">
+        <item name="textSize">@dimen/under_icon_text_size</item>
+        <item name="gravity">center</item>
+    </style>
+    <style name="BottomButton" parent="@style/Widget.Button.Normal">
+        <item name="background">@drawable/btn_bottom</item>
+        <item name="layout_width">0.0dip</item>
+        <item name="layout_height">wrap_content</item>
+        <item name="layout_weight">1.0</item>
+        <item name="textSize">13sp</item>
+    </style>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="animation">
+        <item>Нет</item>
+        <item>Угасание</item>
+        <item>Карусель</item>
+        <item>Перелистывание</item>
+        <item>Всплытие</item>
+        <item>Крест на крест</item>
+        <item>Куб</item>
+        <item>Заполнение</item>
+    </string-array>
+</resources>

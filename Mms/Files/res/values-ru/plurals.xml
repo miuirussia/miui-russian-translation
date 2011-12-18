@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <plurals name="slide_duration">
+        <item quantity="other">%s cек</item>
+        <item quantity="one">%s cек</item>
+        <item quantity="few">%s cек</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s результаты для \"%2$s\"</item>
+        <item quantity="one">%1$s результат для \"%2$s\"</item>
+    </plurals>
+</resources>

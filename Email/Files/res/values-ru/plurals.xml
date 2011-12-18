@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <plurals name="notification_new_one_account_fmt">
+        <item quantity="other">Непрочитанных: %1$d (%2$s)</item>
+        <item quantity="one">Непрочитанных: %1$d (%2$s)</item>
+        <item quantity="few">Непрочитанных: %1$d (%2$s)</item>
+    </plurals>
+    <plurals name="notification_new_multi_account_fmt">
+        <item quantity="other">в %d аккаунтах</item>
+        <item quantity="few">в %d аккаунтах</item>
+    </plurals>
+    <plurals name="message_deleted_toast">
+        <item quantity="other">Сообщения удалены</item>
+        <item quantity="one">Сообщение удалено</item>
+    </plurals>
+    <plurals name="gal_completed_fmt">
+        <item quantity="other">Кол-во результатов: %1$d с %2$s</item>
+        <item quantity="one">Результаты с %2$s (%1$d)</item>
+    </plurals>
+</resources>

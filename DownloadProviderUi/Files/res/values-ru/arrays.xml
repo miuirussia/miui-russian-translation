@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
+  <string-array name="download_filters">
+    <item>Все</item>
+    <item>Маркет</item>
+    <item>Музыка</item>
+    <item>Темы</item>
+    <item>Браузер</item>
+    <item>Другое</item>
+  </string-array>
+</resources>

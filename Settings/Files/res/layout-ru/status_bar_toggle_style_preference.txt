@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/status_bar_toggle_style_compact" android:background="@drawable/status_bar_toggle_style_bg" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/status_bar_toggle_style_compact" />
+        <TextView android:textAppearance="@android:style/TextAppearance.Preference.PrimaryItem" android:id="@id/status_bar_toggle_style_compact_text" android:gravity="center" android:background="@drawable/status_bar_toggle_style_text_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/status_bar_toggle_style_compact" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/status_bar_toggle_style_single_page" android:background="@drawable/status_bar_toggle_style_bg" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/status_bar_toggle_style_single_page" />
+        <TextView android:textAppearance="@android:style/TextAppearance.Preference.PrimaryItem" android:id="@id/status_bar_toggle_style_single_page_text" android:gravity="center" android:background="@drawable/status_bar_toggle_style_text_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/status_bar_toggle_style_single_page"/>
+    </LinearLayout>
+</LinearLayout>
