@@ -99,12 +99,12 @@
     <string-array name="wifi_status_with_ssid">
         <item></item>
         <item>Поиск...</item>
-        <item>Соединение с сетью %1$s…</item>
-        <item>Аутентификация в сети %1$s...</item>
-        <item>Получение IP-адреса от %1$s…</item>
-        <item>Подключено к %1$s</item>
+        <item>Соединение с сетью "%1$s"…</item>
+        <item>Аутентификация в сети "%1$s"...</item>
+        <item>Получение IP-адреса от "%1$s"…</item>
+        <item>Подключено к "%1$s"</item>
         <item>Приостановлено</item>
-        <item>Отключение от %1$s…</item>
+        <item>Отключение от "%1$s"…</item>
         <item>Отключено</item>
         <item>Сбой</item>
     </string-array>
@@ -185,7 +185,7 @@
         <item>Кроме без звука</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
-        <item>Графически</item>
+        <item>Стандартный индикатор</item>
         <item>Проценты</item>
         <item>Полоса в статусбаре</item>
     </string-array>
