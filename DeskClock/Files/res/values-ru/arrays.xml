@@ -21,7 +21,7 @@
     <string-array name="volume_button_setting_entries">
         <item>Нет</item>
         <item>Отложить</item>
-        <item>Отключить</item>
+        <item>Поспать еще</item>
     </string-array>
     <string-array name="alarm_limit_entries">
         <item>5 минут</item>
