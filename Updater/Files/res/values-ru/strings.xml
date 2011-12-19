@@ -77,7 +77,7 @@
   <string name="applying_rom_message">Применение обновления</string>
   <string name="loading">Загрузка MIUI</string>
   <string name="page_error_title">Нет доступа</string>
-  <string name="page_error">Не удается получить доступ к MIUI, это может быть проблема с GPRS/3G, также возможны зависания сервера</string>
+  <string name="page_error">Нет доступа к MIUI из-за проблем с GPRS/3G или недоступности сервера</string>
   <string name="page_reload">Повторить</string>
   <string name="install_rom_from_sd">Прошивка</string>
   <string name="download_current_rom">Скачать последнюю версию полного пакета</string>
