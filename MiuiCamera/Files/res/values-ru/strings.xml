@@ -39,7 +39,7 @@
   <string name="disable_silence">Со звуком</string>
   <string name="setting">Настройки</string>
   <string name="camera_settings">Настройки камеры</string>
-  <string name="pref_camera_picture_setting">Настройки фотографии</string>
+  <string name="pref_camera_picture_setting">Разрешение и качесво фотографий</string>
   <string name="pref_camera_picturesize">Разрешение</string>
   <string name="pref_picturesize_M">МПикс</string>
   <string name="pref_picturesize_10K">0K</string>
@@ -49,12 +49,12 @@
   <string name="pref_camera_jpegquality_fine">Хорошее</string>
   <string name="pref_camera_jpegquality_normal">Нормальное</string>
   <string name="pref_camera_on_off_setting">Переключатели</string>
-  <string name="pref_camera_recordlocation">Геотеги</string>
+  <string name="pref_camera_recordlocation">Записывать геотеги</string>
   <string name="pref_camera_recordlocation_on">Вкл</string>
   <string name="pref_camera_recordlocation_off">Выкл</string>
   <string name="pref_camera_autofocus">Автофокус</string>
   <string name="pref_camera_playback">Показывать снятое</string>
-  <string name="pref_camera_referenceline">Сетка</string>
+  <string name="pref_camera_referenceline">Отобрабать сетка</string>
   <string name="pref_camera_referenceline_none">Нет</string>
   <string name="pref_camera_referenceline_magicsquare">Сетка 3x3</string>
   <string name="pref_camera_referenceline_goldenratio">Сетка</string>
@@ -79,7 +79,7 @@
   <string name="pref_camera_whitebalance_daylight">Дневной свет</string>
   <string name="pref_camera_whitebalance_fluorescent">Люминесцентная лампа</string>
   <string name="pref_camera_whitebalance_cloudy">Облачно</string>
-  <string name="pref_camera_sharpness">Чёткость</string>
+  <string name="pref_camera_sharpness">Четкость</string>
   <string name="pref_camera_contrast">Контраст</string>
   <string name="pref_camera_saturation">Насыщенность</string>
   <string name="pref_camera_coloreffect_none">Нет</string>
@@ -93,7 +93,7 @@
   <string name="pref_camera_coloreffect_mosaic">Мозаика</string>
   <string name="pref_camera_coloreffect_redtint">В красном</string>
   <string name="pref_camera_coloreffect_bluetint">В голубом</string>
-  <string name="pref_camera_coloreffect_greentint">В зелёном</string>
+  <string name="pref_camera_coloreffect_greentint">В зеленом</string>
   <string name="pref_camera_scenemode">Режим сцены</string>
   <string name="pref_camera_scenemode_auto">Авто</string>
   <string name="pref_camera_scenemode_action">Движение</string>
@@ -128,7 +128,7 @@
   <string name="pref_camera_iso_1250">ISO 1250</string>
   <string name="pref_camera_iso_1600">ISO 1600</string>
   <string name="pref_camera_autoexposure">Экспозамер</string>
-  <string name="pref_camera_autoexposure_average">Усреднённый</string>
+  <string name="pref_camera_autoexposure_average">Усредненный</string>
   <string name="pref_camera_autoexposure_center">Центровзвешенный</string>
   <string name="pref_camera_autoexposure_spot">Точечный</string>
   <string name="video_settings">Настройки видео</string>
