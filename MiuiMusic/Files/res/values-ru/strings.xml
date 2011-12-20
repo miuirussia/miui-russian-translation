@@ -2,7 +2,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
   <string name="onesong">1 песня</string>
   <string name="send_to">Отправить</string>
-  <string name="delete_item">Удалить </string>
+  <string name="delete_item">Удалить\u0020</string>
   <string name="delete_song_item">Удалить песню</string>
   <string name="download_song_item">Скачать песни</string>
   <string name="shuffle_all">Перемешать все</string>
@@ -156,7 +156,7 @@
   <string name="server_failed">Подключение к серверу не удалось, повторите попытку позже</string>
   <string name="search_from_local_to_online">Поиск музыки в Интернете для \'%s\'</string>
   <string name="online_indicator">Интернет</string>
-  <string name="remove_from">Удалить </string>
+  <string name="remove_from">Удалить\u0020</string>
   <string name="favorite_playlist_item">Плейлист \"Избранные\"</string>
   <string name="ringtone_picker">Выбор мелодии</string>
   <string name="select_all">Выделить все</string>
