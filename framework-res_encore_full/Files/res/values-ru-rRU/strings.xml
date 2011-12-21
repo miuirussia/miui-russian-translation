@@ -197,7 +197,7 @@
   <string name="badPuk">Введен неверный PUK</string>
   <string name="mismatchPin">Введенные PIN-коды не совпадают</string>
   <string name="invalidPin">Введите PIN-код (от 4 до 8 цифр)</string>
-  <string name="needPuk">SIM-карта заблокирована с помощью кода PUK. Для разблокировки введите код PUK</string>
+  <string name="needPuk">SIM-карта заблокирована с помощью PUK-кода. Для разблокировки введите код PUK</string>
   <string name="needPuk2">Для разблокировки SIM-карты введите PUK2</string>
   <string name="ClipMmi">Идентификация вызывающего абонента</string>
   <string name="ClirMmi">Идентификация звонящего абонента</string>
@@ -277,7 +277,7 @@
   <string name="low_memory">Память телефона заполнена! Удалите файлы, чтобы освободить место</string>
   <string name="me">Я</string>
   <string name="power_dialog">Параметры телефона</string>
-  <string name="silent_mode">Режим без звука</string>
+  <string name="silent_mode">Режим "Без звука"</string>
   <string name="turn_on_radio">Включить беспроводную связь</string>
   <string name="turn_off_radio">Отключить беспроводное соединение</string>
   <string name="screen_lock">Блокировка экрана</string>
@@ -289,10 +289,10 @@
   <string name="global_actions">Параметры телефона</string>
   <string name="global_action_lock">Блокировка экрана</string>
   <string name="global_action_power_off">Выключить</string>
-  <string name="global_action_toggle_silent_mode">Режим без звука</string>
+  <string name="global_action_toggle_silent_mode">Режим "Без звука"</string>
   <string name="global_action_silent_mode_on_status">Звук выключен</string>
   <string name="global_action_silent_mode_off_status">Звук включен</string>
-  <string name="global_actions_toggle_airplane_mode">Режим полета</string>
+  <string name="global_actions_toggle_airplane_mode">Режим "В самолете"</string>
   <string name="global_actions_airplane_mode_on_status">Режим полета включен</string>
   <string name="global_actions_airplane_mode_off_status">Режим полета выключен</string>
   <string name="safeMode">Безопасный режим</string>
@@ -651,7 +651,7 @@
   <string name="keyguard_password_enter_pin_code">Введите PIN-код</string>
   <string name="keyguard_password_enter_password_code">Введите пароль для разблокировки</string>
   <string name="keyguard_password_wrong_pin_code">Неверный PIN-код!</string>
-  <string name="keyguard_label_text">Для разблокировки нажмите \"Меню\", а затем 0.</string>
+  <string name="keyguard_label_text">Для разблокировки нажмите \"Меню\", а затем 0</string>
   <string name="emergency_call_dialog_number_for_display">Экстренная служба</string>
   <string name="lockscreen_carrier_default"/>
   <string name="lockscreen_screen_locked">Экран заблокирован.</string>
@@ -671,9 +671,9 @@
   <string name="lockscreen_missing_sim_instructions">Вставьте SIM-карту</string>
   <string name="emergency_calls_only">Только экстренный вызов</string>
   <string name="lockscreen_network_locked_message">Сеть заблокирована</string>
-  <string name="lockscreen_sim_puk_locked_message">SIM-карта заблокирована с помощью кода PUK.</string>
+  <string name="lockscreen_sim_puk_locked_message">SIM-карта заблокирована с помощью PUK-кода</string>
   <string name="lockscreen_sim_puk_locked_instructions">См. руководство пользователя или свяжитесь со службой поддержки.</string>
-  <string name="lockscreen_sim_locked_message">SIM-карта заблокирована.</string>
+  <string name="lockscreen_sim_locked_message">SIM-карта заблокирована</string>
   <string name="lockscreen_sim_unlock_progress_dialog_message">Разблокировка SIM-карты…</string>
   <string name="lockscreen_too_many_failed_attempts_dialog_message">Количество неудачных попыток ввода графического ключа разблокировки: %d. \n\nПовторите попытку через %d с.</string>
   <string name="lockscreen_failed_attempts_almost_glogin">Количество неудачных попыток ввода графического ключа разблокировки: %d. После %d неудачных попыток вам будет предложено разблокировать телефон с помощью учетных данных Google.\n \n\n Повторите попытку через %d с.</string>
@@ -784,7 +784,7 @@
   <string name="literal_unknown">неизвестный</string>
   <string name="remember_choice">Не спрашивать снова</string>
   <string name="smv_application">Приложение %1$s (процесс %2$s) нарушило политику безопасности.</string>
-  <string name="smv_process">Процесс %1$s нарушил политику безопасности.</string>
+  <string name="smv_process">Процесс %1$s нарушил политику безопасности</string>
   <string name="heavy_weight_notification">%1$s работает</string>
   <string name="heavy_weight_notification_detail">Перейти к приложению</string>
   <string name="heavy_weight_switcher_title">Переключение между приложениями?</string>
@@ -824,13 +824,13 @@
   <string name="perms_hide">Скрыть</string>
   <string name="perms_show_all">Показать все</string>
   <string name="usb_storage_activity_title">Запоминающее устройство USB</string>
-  <string name="usb_storage_title">Подключение через USB</string>
+  <string name="usb_storage_title">USB-кабель подключен</string>
   <string name="usb_storage_message">Телефон подключен к компьютеру через порт USB. Нажмите кнопку ниже, если необходимо копировать файлы с компьютера на SD-карту устройства Android (или наоборот).</string>
-  <string name="usb_storage_button_mount">Включить USB-накопитель</string>
+  <string name="usb_storage_button_mount">Режим накопителя включен</string>
   <string name="usb_storage_error_message">Не удается использовать SD-карту в качестве USB-накопителя.</string>
-  <string name="usb_storage_notification_title">Подключение через USB</string>
-  <string name="usb_storage_notification_message">Выберите для копирования файлов на/с компьютера.</string>
-  <string name="usb_storage_stop_notification_title">Выключить USB-накопитель</string>
+  <string name="usb_storage_notification_title">Режим накопителя включен</string>
+  <string name="usb_storage_notification_message">Выберите для копирования файлов на/с компьютера</string>
+  <string name="usb_storage_stop_notification_title">Карта памяти подключена к компьютеру</string>
   <string name="usb_storage_stop_notification_message">Выберите, чтобы выключить USB-накопитель.</string>
   <string name="usb_storage_stop_title">USB-накопитель используется</string>
   <string name="usb_storage_stop_message">Перед отключением USB-накопителя убедитесь, что SD-карта устройства Android была отключена от компьютера.</string>
@@ -861,7 +861,7 @@
   <string name="ext_media_safe_unmount_notification_title">Извлечение SD-карты</string>
   <string name="ext_media_safe_unmount_notification_message">Можно безопасно извлечь SD-карту</string>
   <string name="ext_media_nomedia_notification_title">SD-карта извлечена</string>
-  <string name="ext_media_nomedia_notification_message">SD-карта извлечена. Вставьте новую.</string>
+  <string name="ext_media_nomedia_notification_message">SD-карта извлечена. Вставьте новую</string>
   <string name="activity_list_empty">Подходящих действий не найдено</string>
   <string name="permlab_pkgUsageStats">обновлять статистику использования компонентов</string>
   <string name="permdesc_pkgUsageStats">Позволяет изменять собранную статистику использования компонентов. Не предназначено для использования обычными приложениями.</string>
@@ -923,7 +923,7 @@
   <string name="sd_not_available_saved_to_internal_storage">Файл сохранён во внутреннюю память</string>
   <string name="reboot_confirm">Телефон будет перезагружен</string>
   <string name="reboot_progress">Перезагрузка...</string>
-  <string name="global_action_toggle_privacy_mode">Гость</string>
+  <string name="global_action_toggle_privacy_mode">Режим "Гость"</string>
   <string name="global_action_privacy_mode_on_status">Гостевой режим включен</string>
   <string name="global_action_privacy_mode_on_toast">Гостевой режим включен. Журнал вызовов и текстовых сообщений скрыты, во время запуска нельзя войти в режим редактирования.</string>
   <string name="global_action_privacy_mode_dialog_message">При включенном \"Гостевом режиме\" журнал вызовов и текстовых сообщений будут скрыты, а редактирование рабочего стола заблокировано. Следует ли ввести шаблон для посетителей?</string>
@@ -941,7 +941,7 @@
   <string name="status_bar_toggle_flight_mode">Полет</string>
   <string name="status_bar_toggle_lock">Блокировка</string>
   <string name="status_bar_toggle_torch">Фонарик</string>
-  <string name="status_bar_toggle_reboot">Перез-ка</string>
+  <string name="status_bar_toggle_reboot">  Перез-ка</string>
   <string name="status_bar_toggle_shutdown">Выключить</string>
   <string name="status_bar_toggle_privacy_mode">Гостевой режим</string>
   <string name="settings_separator">,</string>
@@ -953,11 +953,11 @@
   <string name="to_vibrate_settings" />
   <string name="first_back_long_press_title">Нажмите кнопку возврата</string>
   <string name="first_back_long_press_message">Вы хотите включить функцию длительного нажатия клавиши возврата, чтобы убить текущий процесс и его работу в фоне? \n\nВключается в Настройки -&gt; Система -&gt; Настройки кнопок</string>
-  <string name="force_exit_message">Успешно закрыто \"%1$s\"</string>
+  <string name="force_exit_message">Приложение \"%1$s\" успешно закрыто</string>
   <string name="lockscreen_dial_label">Открыть телефон</string>
   <string name="lockscreen_mms_label">Открыть SMS</string>
   <string name="status_bar_back_to_call">Нажмите, чтобы вернуться к разговору</string>
-  <string name="lockscreen_time_bottom_hint">Сдвиньте для разблокировки</string>
+  <string name="lockscreen_time_bottom_hint">Сдвиньте вниз для разблокировки</string>
   <string name="lockscreen_call_bottom_hint">Сдвиньте, чтобы открыть Телефон</string>
   <string name="lockscreen_sms_bottom_hint">Сдвиньте, чтобы открыть SMS</string>
   <string name="lockscreen_unlock_hint">Сдвиньте для разблокировки</string>
@@ -1271,7 +1271,7 @@
   <string name="country_name_kg">Кыргызстан</string>
   <string name="country_name_uz">Узбекистан</string>
   <string name="open_data_for_agps">Автоматическое включение 3G сети для лучшего позиционирования GPS, через 1 минуту автоматически отключается</string>
-  <string name="text_pastelist">Буфер</string>
+  <string name="text_pastelist">Содержимое буфера</string>
   <string name="select">Выбрать</string>
   <string name="caller_info_name_delimiter">или</string>
   <string name="scene_headset">Гарнитура</string>
@@ -1312,10 +1312,10 @@
   <string name="download_failed">Не удается загрузить превью</string>
   <string name="download_preview_failed">Не удалось загрузить предварительный просмотр</string>
   <string name="invalid_url">Недопустимый адрес:</string>
-  <string name="resource_delete_confirm">Удалить содержимое?</string>
+  <string name="resource_delete_confirm">Содержимое будет удалено</string>
   <string name="all_resources">Все %1$s</string>
   <string name="resource_default_name">Ресурсы</string>
   <string name="resource_detail">Дополнительная информация</string>
   <string name="keyguard_incorrect_pin_with_retry_count">Попыток осталось %d</string>
-  <string name="lockscreen_unlock_sim_via_puk">Используйте PUK чтобы разблокировать SIM-карту</string>
+  <string name="lockscreen_unlock_sim_via_puk">Используйте PUK-код чтобы разблокировать SIM-карту</string>
 </resources>

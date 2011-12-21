@@ -18,7 +18,7 @@
     <string name="usb_mode_msc">Доступ к карте памяти</string>
     <string name="usb_mode_modem">Телефон как модем</string>
     <string name="usb_mode_none">Только зарядка</string>
-    <string name="usb_toast_insert_card">Вставьте карту памяти для медиа.</string>
+    <string name="usb_toast_insert_card">Вставьте карту памяти для медиа</string>
     <string name="usb_progress_message">Перекл. на\u0020</string>
     <string name="usb_error_message">USB-подключение невозм. изменить на\u0020</string>
 </resources>
