@@ -32,7 +32,7 @@
   <string name="firewall_action">Действия брандмаузера</string>
   <string name="act_call">Журнал вызовов</string>
   <string name="act_hangup_call">Сразу сбросить</string>
-  <string name="act_hangup_call_summary">Отклонённые номера не будут отображаться в журнале вызовов</string>
+  <string name="act_hangup_call_summary">Отклоненные номера не будут отображаться в журнале вызовов</string>
   <string name="act_mute_call">Звонки без звука</string>
   <string name="act_mute_call_summary">Не будет уведомлений о звонках, но они будут записываться в журнал вызовов</string>
   <string name="act_ignore_call">Не перехватывать звонки</string>
