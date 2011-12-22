@@ -95,7 +95,7 @@
   <string name="bluetooth_ask_lasting_discovery">Приложение на вашем телефоне запрашивает разрешение на управление Bluetooth. Разрешить и сделать всегда видимым?</string>
   <string name="bluetooth_ask_enablement_and_discovery">Приложение на вашем телефоне запрашивает разрешение на включение Bluetooth и видимого режима на %1$d с. Разрешить?</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery">Приложение на вашем телефоне запрашивает разрешение на включение Bluetooth. Разрешить?</string>
-  <string name="bluetooth_turning_on">Включается Bluetooth…</string>
+  <string name="bluetooth_turning_on">Включение Bluetooth…</string>
   <string name="bluetooth_scan_text">Пустая клавиша…</string>
   <string name="bluetooth_settings_text">Пустая кнопка</string>
   <string name="bluetooth_enable_text">Пустая кнопка</string>
@@ -181,7 +181,7 @@
   <string name="cancel">Отмена</string>
   <string name="settings_label">Настройки</string>
   <string name="settings_shortcut">Настройки</string>
-  <string name="airplane_mode">Режим полета</string>
+  <string name="airplane_mode">Режим "В самолете"</string>
   <string name="airplane_mode_summary">Отключить все беспроводные соединения</string>
   <string name="radio_controls_title">Беспроводные сети</string>
   <string name="wireless_networks_settings_title">Настройки беспроводных модулей</string>
@@ -222,12 +222,12 @@
   <string name="unlock_set_unlock_password_summary">Использовать пароль для разблокировки экрана</string>
   <string name="unlock_set_unlock_disabled_summary">Запрещено удаленным администратором</string>
   <string name="lockpassword_password_too_short">Пароль должен содержать не менее %d символов</string>
-  <string name="lockpassword_pin_too_short">ПИН-код должен содержать не менее %d символов</string>
+  <string name="lockpassword_pin_too_short">PIN-код должен содержать не менее %d символов</string>
   <string name="lockpassword_press_continue">После завершения нажмите \"Продолжить\"</string>
   <string name="lockpassword_continue_label">Продолжить</string>
   <string name="lockpassword_password_too_long">ПИН-код не может быть длиннее %d симв</string>
-  <string name="lockpassword_pin_too_long">ПИН-код не может быть длиннее %d симв</string>
-  <string name="lockpassword_pin_contains_non_digits">ПИН-код должен состоять только из цифр от 0 до 9</string>
+  <string name="lockpassword_pin_too_long">PIN-код не может быть длиннее %d симв</string>
+  <string name="lockpassword_pin_contains_non_digits">PIN-код должен состоять только из цифр от 0 до 9</string>
   <string name="lockpassword_illegal_character">Пароль содержит недопустимые символы</string>
   <string name="lockpassword_password_requires_alpha">Пароль должен содержать хотя бы одну букву</string>
   <string name="lockpassword_password_requires_digit">Пароль должен содержать хотя бы одну цифру</string>
@@ -1428,10 +1428,10 @@ LED-индикатора"</string>
   <string name="cit_charger_current">Ток заряда: %dmA</string>
   <string name="cit_charger_current_error">Не удается получить текущее значение уровня заряда</string>
   <string name="sound_settings">Настройки звука</string>
-  <string name="silent_mode_title">Режим без звука</string>
+  <string name="silent_mode_title">Режим "Без звука"</string>
   <string name="silent_mode_summary">Отключить все звуки, кроме мультимедиа и будильника</string>
   <string name="silent_mode_incl_alarm_summary">Все звуки, кроме аудио и видео, отключены</string>
-  <string name="vibrate_in_silent_title">Без звука</string>
+  <string name="vibrate_in_silent_title">В режиме "Без звука"</string>
   <string name="vibrate_category">Виброзвонок</string>
   <string name="vibrate_in_normal_title">Стандартный режим</string>
   <string name="vibrate_items_title">Вибрация</string>
@@ -1454,7 +1454,7 @@ LED-индикатора"</string>
   <string name="ringtone_category">Сигнал вызова</string>
   <string name="incoming_call_ringtone_settings_title">Мелодия звонка</string>
   <string name="notification_ringtone_settings_title">Мелодия уведомлений</string>
-  <string name="sms_received_sound_settings_title">Уведомление о получении</string>
+  <string name="sms_received_sound_settings_title">Уведомление о сообщении</string>
   <string name="sms_delivered_sound_settings_title">Уведомление о доставке</string>
   <string name="dtmf_tone_enable_title">Звук клавиш</string>
   <string name="dtmf_tone_enable_summary_on">Воспроизводить тональные сигналы при нажатии клавиш номеронабирателя</string>

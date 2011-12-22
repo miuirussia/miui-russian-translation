@@ -19,7 +19,7 @@
         <item quantity="one">1 песня добавлена в плейлист</item>
     </plurals>
     <plurals name="NNNtrackstofavoriteplaylist">
-        <item quantity="other">%d песень добавлено в избранный лист</item>
+        <item quantity="other">%d песен добавлено в избранный лист</item>
         <item quantity="one">1 песня добавлена в избранный лист</item>
     </plurals>
 </resources>

@@ -14,7 +14,7 @@
   <string name="no">Нет</string>
   <string name="tab_apps">Приложения</string>
   <string name="tab_log">Отчет</string>
-  <string name="allow">Разрешить</string>
+  <string name="allow">Разрешить </string>
   <string name="forget">Удалить из списка</string>
   <string name="cancel">Отменить</string>
   <string name="deny">Запретить</string>
@@ -36,7 +36,7 @@
   <string name="permission_monitor_calls">Контролировать звонки</string>
   <string name="permission_message">Сообщения</string>
   <string name="permission_root">ROOT</string>
-  <string name="permission">Разрешения:\u0020</string>
+  <string name="permission">Разрешения: \u0020</string>
   <string name="permission_read_phone_state_summary">Разрешения на чтение состояния телефона и обработки исходящих звонков</string>
   <string name="permission_call_phone_summary">Разрешения на набор номера, ответ и завершение вызовов</string>
   <string name="permission_monitor_calls_summary">Разрешения на просмотр содержания звонков, управление громкостью, динамик и другие подобные операции</string>
@@ -51,8 +51,8 @@
   <string name="permssion_detail">Настройки разрешения: %s</string>
   <string name="clear_log_message">Управление правами будет очищено от всех журналов предоставление прав.</string>
   <string name="success_clear_log">Журналы успешно очищены.</string>
-  <string name="enable_authority_message">Включить средство управления правами</string>
-  <string name="confirm_disable_authority">Вы хотите выключить средство управления правами?</string>
+  <string name="enable_authority_message">Средство управления правами включено</string>
+  <string name="confirm_disable_authority">Средство управления правами будет выключено</string>
   <string name="ask_for_root_permission_message">%s пытается запросить доступ к правам администратора, разрешить?</string>
   <string name="menu_setting">Настройки</string>
   <string name="setting_title">Настройки безопасности</string>
@@ -61,6 +61,6 @@
   <string name="ask_for_root_permission_toast">%s пытается запросить права администратора, которые запрещены по-умолчанию. Если вы хотите их использовать, пожалуйста включите их в приложении Безопасность</string>
   <string name="open_root_permission_message">"Включение этого пункта позволит запрашивать приложениям права администратора.
 Примечание: приложения с такими правими могут вызвать нестабильность системы, потерю данных или повреждение аппаратной составляющей телефона, пожалуйста будте осторожны. Вы уверены, что хотите включить?"</string>
-  <string name="permisson_phone">" Телефон"</string>
+  <string name="permisson_phone">"Телефон"</string>
   <string name="permisson_phone_summary">Все телефонные привилегии</string>
 </resources>

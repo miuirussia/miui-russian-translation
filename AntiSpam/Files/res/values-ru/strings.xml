@@ -94,7 +94,7 @@
   <string name="remove">Удалить</string>
   <string name="emptylist_fwlog_call">Все заблокированные звонки будут храниться в этом журнале</string>
   <string name="emptylist_fwlog_ms">Все заблокированные сообщения будут храниться в этом журнале</string>
-  <string name="add_button">Добавление...</string>
+  <string name="add_button">Добавить номер или контакт</string>
   <string name="save_button">Сохранить</string>
   <string name="cancel_button">Отмена</string>
   <string name="add_blacklist">Добавить в черный список</string>

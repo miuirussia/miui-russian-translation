@@ -33,7 +33,7 @@
   <string name="user_guide_for_notification">При получении нового уведомления, можно перетащить панель уведомлений вниз для получения дополнительных сведений</string>
   <string name="user_guide_for_toggle">Список переключателей может прокручиваться по горизонтали</string>
   <string name="user_guide_for_toggle_list">Нажмите, чтобы настроить список переключателей</string>
-  <string name="user_guide_for_call">Также вернуться к телефонному разговору можно, перетащив панель уведомлений вниз и нажав кнопку Текущий вызов</string>
+  <string name="user_guide_for_call">Вернуться к телефонному разговору можно, перетащив панель уведомлений вниз и нажав кнопку Текущий вызов</string>
   <string name="return_to_incall_screen">Нажмите, для возврата к вызову</string>
   <string name="call_status_dialing">Вызов</string>
 </resources>
