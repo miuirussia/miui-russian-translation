@@ -40,7 +40,7 @@
   <string name="new_folder_name">Новая папка</string>
   <string name="no">Нет</string>
   <string name="no_file">Нет файлов</string>
-  <string name="no_wifi">Нет Wi-Fi сети</string>
+  <string name="no_wifi">Нет сети Wi-Fi</string>
   <string name="notif_server_starting">Синхронизация включена</string>
   <string name="notif_title">Обмен файлами включен</string>
   <string name="operation_cancel">Отменить</string>
@@ -49,7 +49,7 @@
   <string name="operation_create_folder">Новая папка</string>
   <string name="operation_create_folder_message">Пожалуйста, введите имя папки</string>
   <string name="operation_delete">Удалить</string>
-  <string name="operation_delete_confirm_message">Подтвердить удаление?</string>
+  <string name="operation_delete_confirm_message">Подтвердите удаление</string>
   <string name="operation_deleting">Удаление...</string>
   <string name="operation_favorite">Избранное</string>
   <string name="operation_hide_sys">Скрыть системные</string>
