@@ -10,7 +10,7 @@
     <string name="install_done">Приложение установлено</string>
     <string name="install_confirm_question">Установить приложение?</string>
     <string name="install_failed">Приложение не установлено</string>
-    <string name="install_failed_msg">%1$s не удалось установить на этот телефон.</string>
+    <string name="install_failed_msg">%1$s не удалось установить на этот телефон</string>
     <string name="launch">Открыть</string>
     <string name="unknown_apps_dlg_title">Внимание!</string>
     <string name="unknown_apps_dlg_text">Для безопасности, телефон блокирует установку приложений, полученных не с Android Market.</string>
@@ -29,10 +29,10 @@
     <string name="uninstall_update_question">Удалить обновление?</string>
     <string name="uninstall_application_text">Приложение будет удалено</string>
     <string name="uninstall_update_text">Обновление приложения будет удалено. Вы и далее сможете использовать версию приложения, установленную на заводе-изготовителе.</string>
-    <string name="uninstalling">Удаление...</string>
+    <string name="uninstalling">Выполняется удаление...</string>
     <string name="uninstall_done">Удаление завершено</string>
     <string name="uninstall_failed">Ошибка при удалении</string>
-    <string name="uninstall_failed_msg">Удалить приложение %1$s не удалось.</string>
+    <string name="uninstall_failed_msg">Удалить приложение %1$s не удалось</string>
     <string name="Parse_error_dlg_title">Синтаксическая ошибка</string>
-    <string name="Parse_error_dlg_text">При синтаксическом анализе пакета возникла неполадка.</string>
+    <string name="Parse_error_dlg_text">При синтаксическом анализе пакета возникла неполадка</string>
 </resources>
