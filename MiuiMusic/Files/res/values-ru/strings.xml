@@ -82,7 +82,7 @@
   <string name="playback_failed_no_title_by_bad_file">не найден</string>
   <string name="playback_failed_by_network">\'%s\' не найден</string>
   <string name="playback_failed_no_title_by_network">не найден, проверьте подключение к сети</string>
-  <string name="refresh">Обновить</string>
+  <string name="refresh">Обновить медиатеку</string>
   <string name="refresh_finish">Обновление медиатеки завершено</string>
   <string name="refreshing">Обновление медиатеки выполняется...</string>
   <string name="refresh_start">Обновление медиатеки запущено</string>
@@ -90,7 +90,7 @@
   <string name="batch_operation_one_song_confirm">Эта песня будет удалена</string>
   <string name="to_artist">Исполнители</string>
   <string name="to_album">Альбомы</string>
-  <string name="to_track">Песни</string>
+  <string name="to_track">Все песни</string>
   <string name="to_search">Поиск</string>
   <string name="my_music">Музыкальный проигрыватель</string>
   <string name="online_music">Интернет Музыка</string>
