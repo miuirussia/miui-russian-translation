@@ -224,7 +224,7 @@
   <string name="equalizer_disable">Выключить эквалайзер</string>
   <string name="equalizer_delete">Удалить</string>
   <string name="equalizer_delete_success">Удаление текущего эффекта</string>
-  <string name="equalizer_save_success">Эффект, успешно сохранен</string>
+  <string name="equalizer_save_success">Эффект успешно сохранен</string>
   <string name="create_equalzier_create_text_prompt">Имя эффекта</string>
   <string name="new_equalizer_name_template">Пользовательский профиль %d</string>
   <string name="download_no_application_title">Не могу открыть файл</string>
