@@ -42,13 +42,13 @@
   <string name="showAllContactsJoinItem">Показать все контакты</string>
   <string name="separatorJoinAggregateSuggestions">Согласованные контакты</string>
   <string name="separatorJoinAggregateAll">Все контакты</string>
-  <string name="contactsJoinedMessage">Контакты объединённые</string>
+  <string name="contactsJoinedMessage">Контакты объединенные</string>
   <string name="contactOptionsTitle">Параметры</string>
   <string name="deleteConfirmation_title">Удалить</string>
-  <string name="readOnlyContactWarning">Вы не можете удалить контакт из учётной записи маркированной только чтение,но вы можете скрыть его из общего списка контактов</string>
-  <string name="readOnlyContactDeleteConfirmation">Этот контакт содержит информацию из нескольких учётных записей. Информация из учётных записей, маркированных как только чтение, будет скрыта в списке контактов, а не удалена</string>
-  <string name="multipleContactDeleteConfirmation">Удалив этот контакт, вы удалите информацию о нём из других учётных записей</string>
-  <string name="deleteConfirmation">Этот контакт будет удалён</string>
+  <string name="readOnlyContactWarning">Вы не можете удалить контакт из учетной записи маркированной только чтение, но вы можете скрыть его из общего списка контактов</string>
+  <string name="readOnlyContactDeleteConfirmation">Этот контакт содержит информацию из нескольких учетных записей. Информация из учетных записей, с меткой "Только для чтения", будет скрыта из списка контактов, а не удалена</string>
+  <string name="multipleContactDeleteConfirmation">Удалив этот контакт, вы удалите информацию о нем из других учетных записей</string>
+  <string name="deleteConfirmation">Этот контакт будет удален</string>
   <string name="menu_done">OK</string>
   <string name="menu_doNotSave">Отмена</string>
   <string name="editContact_title_edit">Изменить контакт</string>
@@ -69,7 +69,7 @@
   <string name="noMatchingContacts">Совпадений в контактах не найдено</string>
   <string name="noContactsWithPhoneNumbers">Нет контактов с телефонами</string>
   <string name="savingContact">Сохранение контакта...</string>
-  <string name="contactSavedToast">Контакт сохранён</string>
+  <string name="contactSavedToast">Контакт сохранен</string>
   <string name="contactSavedErrorToast">Ошибка, невозможно внести изменения в контакте</string>
   <string name="listFoundAllContactsZero">Контакт не найден</string>
   <string name="contactsIconLabel">Контакты</string>
@@ -156,7 +156,7 @@
   <string name="fail_reason_could_not_initialize_exporter">Экспорт не инициализован: \"%s\"</string>
   <string name="fail_reason_error_occurred_during_export">Произошла ошибка при экспорте: \"%s\"</string>
   <string name="composer_failed_to_get_database_infomation">Невозможно получить информацию базы данных</string>
-  <string name="composer_has_no_exportable_contact">Этот контакт не может быть экспортирован.Даже если на вашем телефоне есть действующие контакты, экспорт контактов с вашего телефона может быть запрещён вашим оператором связи</string>
+  <string name="composer_has_no_exportable_contact">Этот контакт не может быть экспортирован. Даже если на вашем телефоне есть действующие контакты, экспорт контактов с вашего телефона может быть запрещен вашим оператором связи</string>
   <string name="composer_not_initialized">Композиция vCard инициализована не правильно</string>
   <string name="fail_reason_could_not_open_file">Невозможно открыть %1$s из %2$s</string>
   <string name="exporting_contact_list_progress">%1$s из %2$s контактов</string>
@@ -175,7 +175,7 @@
   <string name="organizationLabelsGroup">Организация</string>
   <string name="websiteLabelsGroup">Веб-сайт</string>
   <string name="eventLabelsGroup">Мероприятие</string>
-  <string name="edit_read_only">Этот контакт защищён от перезаписи</string>
+  <string name="edit_read_only">Этот контакт защищен от перезаписи</string>
   <string name="dialog_new_contact_account">Создать контакт под учетной записью</string>
   <string name="account_phone">Только телефон (не синхронизирован)</string>
   <string name="call_custom">Позвонить %s</string>
@@ -270,7 +270,7 @@
   <string name="group_name_important">V.I.P</string>
   <string name="group_name_life_info">Род занятий</string>
   <string name="group_name_white_list">Белый список</string>
-  <string name="group_name_black_list">Чёрный список</string>
+  <string name="group_name_black_list">Черный список</string>
   <string name="duplicatedGroupNameHelpText">Новое имя группы не может совпадать с названием другой группы</string>
   <string name="menu_add">Добавить</string>
   <string name="create_new_group">Создать группу</string>
@@ -397,7 +397,7 @@
   <string name="incoming_call_photo_title">Перемещение или зум</string>
   <string name="incoming_call_photo_saving">Сохранение большого фото...</string>
   <string name="set_as_photo">Заменить текущее изображение контакта?</string>
-  <string name="btn_replace">Замена</string>
+  <string name="btn_replace">Заменить</string>
   <string name="btn_ignore">Игнорировать</string>
   <string name="set_photos">Установить</string>
   <string name="set_photos_finish">Сохранить</string>
@@ -407,8 +407,8 @@
   <string name="check_all">Выбрать все</string>
   <string name="check_nothing">Снять выделение</string>
   <string name="confirm_delete_title">Подтверждение удаление</string>
-  <string name="confirm_delete_message_by_contact">Удалить вызовы?</string>
-  <string name="confirm_delete_message_by_number">Удалить вызовы?</string>
+  <string name="confirm_delete_message_by_contact">Вызовы будут удалены</string>
+  <string name="confirm_delete_message_by_number">Вызовы будут удалены</string>
   <string name="call_log_note">Открыть заметки</string>
   <string name="delete_sigle_call_log">Удаление записи журнала</string>
   <string name="delete_all_call_logs">Удаление всех записей журнала</string>
