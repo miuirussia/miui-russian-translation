@@ -25,7 +25,7 @@
   <string name="clear_thumbnail_cache_confirm">Кеш эскизов очищен. Галерея просканирует файлы и создаст эскизы заново</string>
   <string name="global_setting">Настройки</string>
   <string name="rescan_sdcard">Пересканировать SD</string>
-  <string name="confirm_delete_folder">Удалить папку?</string>
+  <string name="confirm_delete_folder">Папка будет удалена</string>
   <string name="bookmark">Закладки</string>
   <string name="tab_favorite_title">Закладки</string>
   <string name="tab_all_folders_title">Все</string>
@@ -49,7 +49,7 @@
   <string name="set_as_folder_cover">Сделать обложкой папки</string>
   <string name="no_files">Файлы отсутствуют</string>
   <string name="select_all">Выбрать все</string>
-  <string name="unselect_all">Ничего</string>
+  <string name="unselect_all">Снять все</string>
   <string name="select_photo_hint">Нажмите Выбрать фото</string>
   <string name="confirm_delete_file">Файл будет удален</string>
   <string name="confirm_delete_selected_files">Выбранные файлы будут удалены</string>
@@ -124,7 +124,7 @@
   <string name="movie_view_label">Видео</string>
   <string name="loading_video">Загрузка видео…</string>
   <string name="resume_playing_title">Продолжить просмотр видео</string>
-  <string name="resume_playing_message">Начать показ с %s ?</string>
+  <string name="resume_playing_message">Показ будет начат с %s</string>
   <string name="resume_playing_resume">Продолжение просмотра</string>
   <string name="resume_playing_restart">Смотреть сначала</string>
   <string name="confirm">ОК</string>
