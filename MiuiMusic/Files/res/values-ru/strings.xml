@@ -8,7 +8,7 @@
   <string name="shuffle_all">Перемешать все</string>
   <string name="delete_artist_desc">Все песни \"%s\" будут удалены с SD-карты</string>
   <string name="delete_album_desc">Альбом %s будет удален с SD-карты</string>
-  <string name="delete_song_desc">Удалить \"%s\" с SD-карты?</string>
+  <string name="delete_song_desc">Песня \"%s\" будет удалена с SD-карты</string>
   <string name="delete_confirm_button_text">OK</string>
   <string name="enter_batch_edit">Выбор нескольких песен</string>
   <string name="exit_batch_edit">Выйти из режима выбора</string>
@@ -160,7 +160,7 @@
   <string name="favorite_playlist_item">Плейлист \"Избранные\"</string>
   <string name="ringtone_picker">Выбор мелодии</string>
   <string name="select_all">Выделить все</string>
-  <string name="select_reverse">Инверт.</string>
+  <string name="select_reverse">Снять все</string>
   <string name="picker_song_add">Добавить (%d)</string>
   <string name="add_songs">Добавить песню</string>
   <string name="rename_playlist_same_name">Плейлист имеет то же имя что и \"%s\"</string>
@@ -173,8 +173,8 @@
   <string name="folder_renamed_message">Папка была переименована</string>
   <string name="filter_by_folder">Фильтр по папкам</string>
   <string name="select_folder">Выберите папку</string>
-  <string name="filter_min">0 Кб</string>
-  <string name="filter_max">2 Мб</string>
+  <string name="filter_min">0 КБ</string>
+  <string name="filter_max">2 МБ</string>
   <string name="sync_now">Обновление...</string>
   <string name="miui_folder">Загрузки</string>
   <string name="filter_notification">Фильтр был отфильтрован, вы можете изменить эти настройки в настройках фильтра.</string>
