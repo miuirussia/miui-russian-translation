@@ -43,11 +43,11 @@
   <string name="ringtone_menu_short">Установить на звонок</string>
   <string name="ringtone_set">Песня %s установлена на звонок</string>
   <string name="play_selection">Воспроизвести</string>
-  <string name="add_to_playlist">Добавить в плейлист</string>
+  <string name="add_to_playlist">Добавить песню</string>
   <string name="add_to_favorite">Добавить в избранное</string>
   <string name="delete_from_favorite">Удалить из избр.</string>
-  <string name="queue">Очереди</string>
-  <string name="new_playlist">Новый плейлист</string>
+  <string name="queue">В очередь</string>
+  <string name="new_playlist">В новый плейлист</string>
   <string name="new_playlist_name_template">Новый плейлист %d</string>
   <string name="context_menu_status_online">Онлайн</string>
   <string name="context_menu_status_local">Локально</string>
