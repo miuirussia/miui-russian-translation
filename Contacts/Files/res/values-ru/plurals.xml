@@ -8,18 +8,18 @@
     </plurals>
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">Всего %d контактов с телефонными номерами</item>
-        <item quantity="one">Всего 1 контакт с телефонными номерами</item>
+        <item quantity="one">Всего один контакт с телефонными номерами</item>
     </plurals>
     <plurals name="listTotalAllContacts">
         <item quantity="other">Всего %d контактов</item>
-        <item quantity="one">Всего 1 контакт</item>
+        <item quantity="one">Всего один контакт</item>
     </plurals>
     <plurals name="listFoundAllContacts">
-        <item quantity="other">%d контактов найдено</item>
-        <item quantity="one">1 контакт найден</item>
+        <item quantity="other">Найдено %d контактов</item>
+        <item quantity="one">Н айден один контакт</item>
     </plurals>
     <plurals name="searchFoundContacts">
         <item quantity="other">%d контактов</item>
-        <item quantity="one">1 контакт</item>
+        <item quantity="one">Один контакт</item>
     </plurals>
 </resources>
