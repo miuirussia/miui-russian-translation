@@ -2,7 +2,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
   <string name="onesong">1 песня</string>
   <string name="send_to">Отправить песню через</string>
-  <string name="delete_item">Удаление</string>
+  <string name="delete_item">Удалить\u0020</string>
   <string name="delete_song_item">Удалить песню</string>
   <string name="download_song_item">Скачать песни</string>
   <string name="shuffle_all">Перемешать все</string>
@@ -43,11 +43,11 @@
   <string name="ringtone_menu_short">Установить на звонок</string>
   <string name="ringtone_set">Песня "%s" установлена на звонок</string>
   <string name="play_selection">Воспроизвести</string>
-  <string name="add_to_playlist">Добавить песню</string>
+  <string name="add_to_playlist">Добавить песню в</string>
   <string name="add_to_favorite">Добавить в избранное</string>
   <string name="delete_from_favorite">Удалить из избр.</string>
-  <string name="queue">В очередь</string>
-  <string name="new_playlist">В новый плейлист</string>
+  <string name="queue">Очередь воспроизведения</string>
+  <string name="new_playlist">Новый плейлист</string>
   <string name="new_playlist_name_template">Новый плейлист %d</string>
   <string name="context_menu_status_online">\u0020</string>
   <string name="context_menu_status_local">\u0020</string>
@@ -164,7 +164,7 @@
   <string name="picker_song_add">Добавить (%d)</string>
   <string name="add_songs">Добавить песню</string>
   <string name="rename_playlist_same_name">Плейлист имеет то же имя что и \"%s\"</string>
-  <string name="start_play_shuffle">Воспроизведение в случайном порядке</string>
+  <string name="start_play_shuffle">Воспроизвести в случайном порядке</string>
   <string name="no_track_to_played">Нет песен</string>
   <string name="folder">Папки</string>
   <string name="music_filter_helper">Был применен фильтр 800 КБ, чтобы показывать только музыку. Настройки фильтра могут быть изменены в настройках</string>
