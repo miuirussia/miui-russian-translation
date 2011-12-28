@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+?<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
   <!--This file translated by KOJAN Development Group with ATE2-->
   <string name="contactsIconLabel">Контакты</string>
@@ -6,7 +6,7 @@
   <string name="emergencyDialerIconLabel">Номера экстренных вызовов</string>
   <string name="phoneIconLabel">Телефон</string>
   <string name="fdnListLabel">Разрешенные номера</string>
-  <string name="sdnListLabel">Запрещённые номера</string>
+  <string name="sdnListLabel">Запрещенные номера</string>
   <string name="unknown">Неизвестный абонент</string>
   <string name="private_num">Скрытый номер</string>
   <string name="payphone">Телефон-автомат</string>
@@ -19,7 +19,7 @@
   <string name="callFailed_number_unreachable">Номер недоступен</string>
   <string name="callFailed_invalid_credentials">Неправильное имя пользователя или пароль</string>
   <string name="callFailed_out_of_network">Вызывается из внешней сети</string>
-  <string name="callFailed_server_error">Ошибка сервера. Попробуйте еще ​​раз позже</string>
+  <string name="callFailed_server_error">Ошибка сервера. Попробуйте еще ??раз позже</string>
   <string name="callFailed_noSignal">Нет сигнала</string>
   <string name="callFailed_limitExceeded">Превышен лимит ACM</string>
   <string name="callFailed_powerOff">Радио выключено</string>
@@ -148,9 +148,9 @@
   <string name="throttle_time_frame">Время передачи данных</string>
   <string name="throttle_rate">Скорость передачи данных</string>
   <string name="throttle_help">Подробнее</string>
-  <string name="throttle_status_subtext">"%1$s (%2$d٪) из %3$s периодический максимум.
+  <string name="throttle_status_subtext">"%1$s (%2$d?) из %3$s периодический максимум.
 Начало следующего срока %4$d дней (%5$s)"</string>
-  <string name="throttle_data_usage_subtext">%1$s (%2$d٪) из %3$s периодический максимум</string>
+  <string name="throttle_data_usage_subtext">%1$s (%2$d?) из %3$s периодический максимум</string>
   <string name="throttle_data_rate_reduced_subtext">"%1$s превышен максимум.
 Скорость передачи данных уменьшена до %2$d кБ/с"</string>
   <string name="throttle_time_frame_subtext">"%1$s превышен максимум.
@@ -295,13 +295,13 @@
 Обратите внимание, что телефон будет заблокирован, если не удастся ввести еще раз!"</string>
   <string name="label_puk_code">Введите PUK-код</string>
   <string name="puk_lock_warning">"
-Обратите внимание, что SIM-карта полность заблокируется, если не удастся ввести еще раз!"</string>
+Обратите внимание, что SIM-карта полностью заблокируется, если вы введете код неверно еще раз!"</string>
   <string name="pin2_lock_warning" />
   <string name="invalid_new_pin" />
   <string name="invalid_new_pin2" />
   <string name="invalid_puk" />
   <string name="pin2_locked_message" />
-  <string name="bad_puk">PUK-код введен не правильно. Пожалуйста, попробуйте еще раз.</string>
+  <string name="bad_puk">PUK-код введен неправильно. Пожалуйста, попробуйте еще раз</string>
   <string name="caller_manage_manage_done_text">Вернуться к вызову</string>
   <string name="fake_phone_activity_phoneNumber_text">+7 (123) 123-4567</string>
   <string name="fake_phone_activity_infoText_text">Входящий телефонный номер</string>
@@ -384,7 +384,7 @@
   <string name="ota_failure">Программирование неудачно</string>
   <string name="ota_successful">Ваш телефон активирован.Это может занять до 15 минут для запуска службы</string>
   <string name="ota_unsuccessful">"Ваш телефон не активирован.
-Найдите место с более уверенным приёмом (рядом с окном,или вне помещения). 
+Найдите место с более уверенным приемом (рядом с окном,или вне помещения). 
  
  Попробуйте еще раз или позвоните в службу поддержки для получения дополнительных инструкций"</string>
   <string name="ota_spc_failure">ПРЕВЫШЕНИЕ ОТКАЗОВ SPC</string>
@@ -424,8 +424,8 @@
   <string name="onscreenVoiceDevices">Автоответчик</string>
   <string name="onscreenCallRecord">Запись</string>
   <string name="onscreenKeyboard">Клавиатура</string>
-  <string name="onscreenMoreOff">Ещё</string>
-  <string name="onscreenMoreOn">Ещё</string>
+  <string name="onscreenMoreOff">Еще</string>
+  <string name="onscreenMoreOn">Еще</string>
   <string name="onscreenVoiceDeviceBluetooth">Bluetooth</string>
   <string name="onscreenVoiceDeviceHandset">Наушники</string>
   <string name="onscreenVoiceDeviceHeadset">Наушники</string>
@@ -462,8 +462,8 @@
   <string name="callSimEntry">Вызовы (SIM)</string>
   <string name="smsSimEntry">SMS / MMS</string>
   <string name="insertContactSuccess">Контакт добавлен на SIM-карту</string>
-  <string name="saveContactSuccess">Контакт сохранён на SIM-карту</string>
-  <string name="deleteContactSuccess">Контакт удалён с SIM-карты</string>
+  <string name="saveContactSuccess">Контакт сохранен на SIM-карту</string>
+  <string name="deleteContactSuccess">Контакт удален с SIM-карты</string>
   <string name="importContactSuccess">Импорт выполнен успешно</string>
   <string name="deleteAllSimContacts">Удалить все контакты</string>
   <string name="deleteAllSimContactsText">Удалить все контакты с SIM-карты</string>
@@ -517,7 +517,7 @@
   <string name="call_record_notification_title">Запись...</string>
   <string name="call_record_notification_message">Нажмите, чтобы посмотреть файл %s</string>
   <string name="call_record_notification_title_error">Запись разговоров не удалась</string>
-  <string name="call_record_notification_message_low_space">Запись остановлена ​​из-за нехватки места, нажмите для просмотра %s</string>
+  <string name="call_record_notification_message_low_space">Запись остановлена ??из-за нехватки места, нажмите для просмотра %s</string>
   <string name="call_record_notification_message_sd_unmounted">Запись остановлена, так как SD-карта не смонтирована</string>
   <string name="prefered_network_type_title">Тип сотовой сети</string>
   <string name="pin_attempts">Осталось %d попыток</string>
@@ -648,7 +648,7 @@
   <string name="remove">Удалить</string>
   <string name="check_all">Выбрать все</string>
   <string name="check_nothing">Отменить все</string>
-  <string name="deleting_message">удаление...</string>
+  <string name="deleting_message">Удаление...</string>
   <string name="confirm_delete_message_title">Вы удалите %d выбранных приставок сообщений</string>
   <string name="pref_custom_location_title">Настройка приставок</string>
   <string name="pref_custom_location_summary">Настройка региональных приставок и количество приставок</string>
