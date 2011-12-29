@@ -181,16 +181,17 @@
   <string name="cancel">Отмена</string>
   <string name="settings_label">Настройки</string>
   <string name="settings_shortcut">Настройки</string>
-  <string name="airplane_mode">Режим "В самолете"</string>
+  <string name="airplane_mode">Режим \"В самолете\"</string>
   <string name="airplane_mode_summary">Отключить все беспроводные соединения</string>
   <string name="radio_controls_title">Беспроводные сети</string>
   <string name="wireless_networks_settings_title">Настройки беспроводных модулей</string>
   <string name="roaming">Интернет-роуминг</string>
   <string name="networks">Выбор оператора</string>
   <string name="date_and_time_settings_title">Настройки даты и времени</string>
-  <string name="date_time_auto">Автоматически</string>
+  <string name="date_time_auto">Автонастройка</string>
   <string name="date_time_auto_summary">Эффективно только при использовании интернет или Wi-Fi подключения</string>
-  <string name="date_time_sync_when_startup">Синхронизировать время при запуске</string>
+  <string name="date_time_sync_when_startup_summary">Синхронизация времени при запуске системы</string> 
+  <string name="date_time_sync_when_startup">Синхр. время при запуске</string>
   <string name="date_time_24hour">24-часовой формат</string>
   <string name="date_time_set_time">Настроить время</string>
   <string name="date_time_set_timezone">Часовой пояс</string>
@@ -528,11 +529,11 @@
   <string name="master_clear_title">Сброс настроек</string>
   <string name="master_clear_summary">Удаляет все данные из памяти телефона</string>
   <string name="master_clear_desc">"С телефона будут удалены все данные, в том числе: 
-ваш аккаунт Google
-данные и настройки системы и приложений
-загруженные приложения
+ваш аккаунт Google,
+данные и настройки системы и приложений,
+загруженные приложения.
 Не будут удалены:
-текущее системное ПО и пакетные приложения
+текущее системное ПО и пакетные приложения,
 файлы на SD-карте, например фотографии и музыка"</string>
   <string name="wipe_user_data">Данные пользователя</string>
   <string name="wipe_user_data_desc">"Это удалит все данные пользователя с телефона
@@ -738,7 +739,7 @@
   <string name="language_settings">Язык и клавиатура</string>
   <string name="language_keyboard_settings_title">Настройки языка и клавиатуры</string>
   <string name="language_category">Региональные настройки</string>
-  <string name="phone_language">Выбрать язык</string>
+  <string name="phone_language">Язык телефона</string>
   <string name="auto_replace">Автокоррекция</string>
   <string name="auto_replace_summary">Исправлять опечатки</string>
   <string name="auto_caps">Автоподст. заглавных</string>
@@ -1099,7 +1100,7 @@
   <string name="device_memory">RAM:</string>
   <string name="device_internal_memory">Внутренняя память:</string>
   <string name="device_sdcard">SD-карта:</string>
-  <string name="battery_level">Уровень заряда: %d</string>
+  <string name="battery_level">Уровень заряда батареи - %d</string>
   <string name="click_to_input">ввод</string>
   <string name="pc_connection_settings_title">Синхронизация с ПК</string>
   <string name="ask_user_usb_mode">Спросить при подкл.</string>
@@ -1108,10 +1109,10 @@
   <string name="key_settings_title">Настройка кнопок</string>
   <string name="key_settings">Настройка кнопок</string>
   <string name="back_long_press">Кнопка \"Назад\"</string>
-  <string name="enable_back_long_press">Закрыть приложение</string>
+  <string name="enable_back_long_press">Закрывает приложение</string>
   <string name="back_long_press_timeout">%1$.1f сек.</string>
-  <string name="power_key">Кнопка питания</string>
-  <string name="disable_power_key_long_press_under_keyguard">Не реаг. из локскрина</string>
+  <string name="power_key">Кнопка питания на локскрине</string>
+  <string name="disable_power_key_long_press_under_keyguard">Не реагировать на нажатия</string>
   <string name="media_button">На локскрине кнопки плеера:</string>
   <string name="preferred_media_app_summary">Управляют приложением</string>
   <string name="no_media_button_receiver">Нет</string>
@@ -1149,7 +1150,7 @@
   <string name="led_frequence_summary">Время между миганием LED</string>
   <string name="led_pulse_summary">При новом уведомлении, будет мигать световой индикатор</string>
   <string name="wifi_advanced_settings">Расширенные настройки</string>
-  <string name="input_method_category">Метод Ввода</string>
+  <string name="input_method_category">Метод ввода</string>
   <string name="button_done">Готово</string>
   <string name="button_cancel">Отмена</string>
   <string name="breathing_light_color_title">Цвет</string>
@@ -1198,7 +1199,7 @@ LED-индикатора"</string>
   <string name="battery_auto_saving_practise_more">Еще советы по энергосбережению...</string>
   <string name="sd_ext_memory">A2SD+</string>
   <string name="usage_type_power">Потребление энергии</string>
-  <string name="current_ime">Метод ввода</string>
+  <string name="current_ime">Метод ввода по умолчанию</string>
   <string name="upload_debug_log_title">Отправлять журнал</string>
   <string name="upload_debug_log_summary">Отправлять журнал отладки разработчикам для содействия в разработке более стабильной и простой в использовании MIUI ROM только при наличии Wi-Fi-соединеия</string>
   <string name="lockpassword_confirm_previous_password_header">Введите ваш старый пароль</string>
@@ -1213,10 +1214,10 @@ LED-индикатора"</string>
   <string name="customized_theme_title">Темы оформления</string>
   <string name="reboot">Перезапуск</string>
   <string name="search_label">Установки</string>
-  <string name="search_hint">Настройки поиска</string>
-  <string name="search_description">Настройки поиска</string>
+  <string name="search_hint">Поиск в настройках</string>
+  <string name="search_description">Поиск в настройках</string>
   <string name="screen_rotation">Поворот экрана</string>
-  <string name="rotate_180_title">Разрешить поворот 180°</string>
+  <string name="rotate_180_title">Поворот экрана на 180°</string>
   <string name="electron_beam_animation_on">Анимация разблокировки</string>
   <string name="electron_beam_animation_off">Анимация блокировки</string>
   <string name="advanced_mode">Расширенный режим</string>
@@ -1428,10 +1429,10 @@ LED-индикатора"</string>
   <string name="cit_charger_current">Ток заряда: %dmA</string>
   <string name="cit_charger_current_error">Не удается получить текущее значение уровня заряда</string>
   <string name="sound_settings">Настройки звука</string>
-  <string name="silent_mode_title">Режим "Без звука"</string>
+  <string name="silent_mode_title">Режим \"Без звука\"</string>
   <string name="silent_mode_summary">Отключить все звуки, кроме мультимедиа и будильника</string>
   <string name="silent_mode_incl_alarm_summary">Все звуки, кроме аудио и видео, отключены</string>
-  <string name="vibrate_in_silent_title">В режиме "Без звука"</string>
+  <string name="vibrate_in_silent_title">В режиме \"Без звука\"</string>
   <string name="vibrate_category">Виброзвонок</string>
   <string name="vibrate_in_normal_title">Стандартный режим</string>
   <string name="vibrate_items_title">Вибрация</string>
