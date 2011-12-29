@@ -127,7 +127,6 @@
   <string name="menu_checkall">Выбрать все</string>
   <string name="menu_uncheckall">Снять все</string>
   <string name="menu_checkall_no_photo">Выбрать фото</string>
-  <string name="share_visible_contacts">Опубликовать видимые контакты</string>
   <string name="share_visible_contacts">Отправить все контакты через...</string>
   <string name="searching_vcard_message">Поиск контактов на SD-карте...</string>
   <string name="scanning_sdcard_failed_title">Сканирование не удалось</string>
