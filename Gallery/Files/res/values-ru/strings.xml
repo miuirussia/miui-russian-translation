@@ -65,7 +65,7 @@
   <string name="send_multiple_files_hint_format">Отправить файлы (%s)</string>
   <string name="already_select">Выбрано %s</string>
   <string name="how_many_videos">%d видео</string>
-  <string name="how_many_sub_folders">%d папок</string>
+  <string name="how_many_sub_folders">Папок %d </string>
   <string name="how_many_pics">%d фото</string>
   <string name="select_file_hint">Нажмите, чтобы выбрать</string>
   <string name="rename_failed">Не удалось переименовать</string>
