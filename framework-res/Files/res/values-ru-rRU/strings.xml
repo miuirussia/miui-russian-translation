@@ -272,7 +272,7 @@
   <string name="low_memory">Память телефона заполнена! Удалите файлы, чтобы освободить место</string>
   <string name="me">Я</string>
   <string name="power_dialog">Параметры телефона</string>
-  <string name="silent_mode">Режим "Без звука"</string>
+  <string name="silent_mode">Режим \"Без звука\"</string>
   <string name="turn_on_radio">Включить беспроводную связь</string>
   <string name="turn_off_radio">Отключить беспроводное соединение</string>
   <string name="screen_lock">Блокировка экрана</string>
@@ -284,10 +284,10 @@
   <string name="global_actions">Параметры телефона</string>
   <string name="global_action_lock">Блокировка экрана</string>
   <string name="global_action_power_off">Выключить</string>
-  <string name="global_action_toggle_silent_mode">Режим "Без звука"</string>
+  <string name="global_action_toggle_silent_mode">Режим \"Без звука\"</string>
   <string name="global_action_silent_mode_on_status">Звук выключен</string>
   <string name="global_action_silent_mode_off_status">Звук включен</string>
-  <string name="global_actions_toggle_airplane_mode">Режим "В самолете"</string>
+  <string name="global_actions_toggle_airplane_mode">Режим \"В самолете\"</string>
   <string name="global_actions_airplane_mode_on_status">Режим полета включен</string>
   <string name="global_actions_airplane_mode_off_status">Режим полета выключен</string>
   <string name="safeMode">Безопасный режим</string>
@@ -973,7 +973,7 @@
   <string name="no_vibrate_hint">В соответствии с настройками, входяций вызов, уведомление и сообщения не будут вибрировать.</string>
   <string name="to_vibrate_settings">Настройки вибрации</string>
   <string name="first_back_long_press_title">Нажмите кнопку возврата</string>
-  <string name="first_back_long_press_message">"Вы хотите включить функцию длительного нажатия клавиши возврата, чтобы убить текущий процесс и его работу в фоне? 
+  <string name="first_back_long_press_message">"Вы хотите включить функцию закрытия приложения при длительном нажатии клавиши Назад?
 
 Включается в Настройки -&gt; Система -&gt; Настройки кнопок"</string>
   <string name="force_exit_message">Приложение \"%1$s\" успешно закрыто</string>
