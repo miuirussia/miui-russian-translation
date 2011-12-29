@@ -780,7 +780,7 @@
   <string name="development_settings_summary">Настройка параметров для разработки приложений</string>
   <string name="enable_adb">Отладка по USB</string>
   <string name="enable_adb_summary">Включить режим отладки при подключении к компьютеру по USB</string>
-  <string name="monitor_history">Управление питанием</string>
+  <string name="monitor_history">Вести статистику</string>
   <string name="keep_screen_on">Оставить включенным</string>
   <string name="keep_screen_on_summary">Во время зарядки экран будет всегда включен</string>
   <string name="allow_mock_location">Отладка положения</string>
