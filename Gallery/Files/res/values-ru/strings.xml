@@ -22,13 +22,13 @@
   <string name="animation_set">Анимация</string>
   <string name="slideshow_repeat_mode">Повтор</string>
   <string name="clear_thumbnail_cache">Очистить кэш эскизов</string>
-  <string name="clear_thumbnail_cache_confirm">Кеш эскизов очищен. Галерея просканирует файлы и создаст эскизы заново</string>
+  <string name="clear_thumbnail_cache_confirm">Кэш эскизов очищен. Галерея просканирует файлы и создаст эскизы заново</string>
   <string name="global_setting">Настройки</string>
   <string name="rescan_sdcard">Пересканировать SD</string>
   <string name="confirm_delete_folder">Папка будет удалена</string>
   <string name="bookmark">Закладки</string>
   <string name="tab_favorite_title">Закладки</string>
-  <string name="tab_all_folders_title">Все</string>
+  <string name="tab_all_folders_title">Все папки</string>
   <string name="tab_folder_tree_title">SD-карта</string>
   <string name="image_property">Свойства</string>
   <string name="video_property">Свойства</string>
@@ -72,14 +72,14 @@
   <string name="rename_failed_duplicated_name">Файл с таким именем уже существует</string>
   <string name="open_single_image_failure">Невозможно открыть изображение</string>
   <string name="already_saved">Изображение %s уже сохранено</string>
-  <string name="failure_external_storage_not_writable">Запись на внешний накопитель невозможна.</string>
+  <string name="failure_external_storage_not_writable">Запись на внешний накопитель невозможна</string>
   <string name="save_pic_error">Не удалось сохранить изображение</string>
   <string name="save_pic_to_success">Изображение был сохранено как\n%s</string>
   <string name="save_to_sdcard">Сохранить на SD-карту</string>
   <string name="damaged_file">Файл поврежден</string>
-  <string name="camera_folder_display_name">Камера </string>
+  <string name="camera_folder_display_name">Камера\u0020</string>
   <string name="miui_capture_screen_folder_display_name">Скриншоты </string>
-  <string name="internal_camera_folder_display_name">Камера (в памяти) </string>
+  <string name="internal_camera_folder_display_name">Камера (в памяти)\u0020</string>
   <string name="internal_miui_capture_screen_folder_display_name">Скриншоты (в памяти) </string>
   <string name="miliao_folder_display_name">MiTalk</string>
   <string name="miliao_painting_folder_display_name">Рисование MiTalk</string>
@@ -88,7 +88,7 @@
   <string name="set_lock_or_wallpaper">Установить на</string>
   <string name="set_wallpaper">Рабочий стол</string>
   <string name="set_lockscreen">Экран блокировки</string>
-  <string name="apply_pic_for">Установить на:</string>
+  <string name="apply_pic_for">Установить на</string>
   <string name="wallpaper">Рабочий стол</string>
   <string name="screen_saver_wallpaper">Экран блокировки</string>
   <string name="contact_photo">Фото контакта</string>
@@ -155,5 +155,5 @@
   <string name="select_photo">Галерея</string>
   <string name="select_frame">Рамка</string>
   <string name="photo_confirm">Готово</string>
-  <string name="photo_load_failed">Не удалось загрузить фото!</string>
+  <string name="photo_load_failed">Не удалось загрузить фото</string>
 </resources>
