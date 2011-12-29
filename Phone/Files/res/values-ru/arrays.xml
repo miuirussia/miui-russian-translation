@@ -11,7 +11,7 @@
     <string-array name="voice_quality_ui_values">
         <item>Нормально</item>
         <item>Чисто</item>
-        <item>Отчётливо</item>
+        <item>Отчетливо</item>
         <item>Ярко</item>
     </string-array>
     <string-array name="auto_answer_pref_entries">
