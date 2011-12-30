@@ -54,7 +54,7 @@
   <string name="pref_camera_recordlocation_off">Выкл</string>
   <string name="pref_camera_autofocus">Автофокус</string>
   <string name="pref_camera_playback">Показывать снятое</string>
-  <string name="pref_camera_referenceline">Отобрабать сетка</string>
+  <string name="pref_camera_referenceline">Отобрабать сетку</string>
   <string name="pref_camera_referenceline_none">Нет</string>
   <string name="pref_camera_referenceline_magicsquare">Сетка 3x3</string>
   <string name="pref_camera_referenceline_goldenratio">Сетка</string>
