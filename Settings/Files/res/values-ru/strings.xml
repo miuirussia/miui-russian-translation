@@ -450,7 +450,7 @@
   <string name="device_info_settings">Состояние телефона</string>
   <string name="system_update_settings_list_item_title">Обновления системы</string>
   <string name="baseband_version">Версия ПО модуля связи</string>
-  <string name="kernel_version">Версия ядра</string>
+  <string name="kernel_version">Информация о ядре</string>
   <string name="build_number">Номер сборки</string>
   <string name="device_info_not_available">Недоступно</string>
   <string name="device_status_activity_title">Общая информация</string>
@@ -1094,9 +1094,9 @@
   <string name="available_size">%s</string>
   <string name="total_size">из %s</string>
   <string name="device_overview_sd_shared">SD-карта подключена</string>
-  <string name="device_model">Модель:</string>
+  <string name="device_model">Модель телефона:</string>
   <string name="device_version">Версия Android:</string>
-  <string name="device_cpu">Процессор:</string>
+  <string name="device_cpu">Частота процессора:</string>
   <string name="device_memory">RAM:</string>
   <string name="device_internal_memory">Внутренняя память:</string>
   <string name="device_sdcard">SD-карта:</string>
