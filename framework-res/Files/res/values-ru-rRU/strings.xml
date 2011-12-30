@@ -852,13 +852,13 @@
   <string name="usb_storage_message">Телефон подключен к компьютеру через порт USB. Нажмите кнопку ниже, если необходимо копировать файлы с компьютера на SD-карту устройства Android (или наоборот).</string>
   <string name="usb_storage_button_mount">Режим накопителя включен</string>
   <string name="usb_storage_error_message">Не удается использовать SD-карту в качестве USB-накопителя.</string>
-  <string name="usb_storage_notification_title">Подключение через USB</string>
+  <string name="usb_storage_notification_title">USB-кабель подключен</string>
   <string name="usb_storage_notification_message">Выберите для копирования файлов на/с компьютера.</string>
-  <string name="usb_storage_stop_notification_title">Включить USB-накопитель</string>
-  <string name="usb_storage_stop_notification_message">Выберите, чтобы выключить USB-накопитель.</string>
+  <string name="usb_storage_stop_notification_title">Режим накопителя включен</string>
+  <string name="usb_storage_stop_notification_message">Выберите, чтобы выключить USB-накопитель</string>
   <string name="usb_storage_stop_title">USB-накопитель используется</string>
   <string name="usb_storage_stop_message">Перед отключением USB-накопителя убедитесь, что SD-карта устройства Android была отключена от компьютера.</string>
-  <string name="usb_storage_stop_button_mount">Выключить USB-накопитель</string>
+  <string name="usb_storage_stop_button_mount">Режим накопителя выключен</string>
   <string name="usb_storage_stop_error_message">При выключении USB-накопителя произошла неполадка. Убедитесь, что USB-хост отключен, и повторите попытку.</string>
   <string name="dlg_confirm_kill_storage_users_title">Включение USB-накопителя</string>
   <string name="dlg_confirm_kill_storage_users_text">При включении USB-накопителя некоторые используемые приложения могут прекратить работу и оставаться недоступными до отключения USB-накопителя.</string>
@@ -937,7 +937,7 @@
   <string name="format_error">Не удалось удалить USB-память.</string>
   <string name="media_bad_removal">SD-карта была удалена до размонтирования.</string>
   <string name="media_checking">USB устройство в настоящее время проверяется.</string>
-  <string name="media_removed">SD-карта была удалена.</string>
+  <string name="media_removed">SD-карта была удалена</string>
   <string name="media_shared">USB хранилище в настоящее время используется компьютер.</string>
   <string name="media_unknown_state">Внешние медиа в неизвестном состоянии.</string>
   <string name="reboot_confirm">Телефон будет перезагружен</string>
