@@ -84,7 +84,7 @@
   <string name="playback_failed_no_title_by_network">не найден, проверьте подключение к сети</string>
   <string name="refresh">Обновить медиатеку</string>
   <string name="refresh_finish">Обновление медиатеки завершено</string>
-  <string name="refreshing">Обновление медиатеки выполняется...</string>
+  <string name="refreshing">Обновление медиатеки уже выполняется...</string>
   <string name="refresh_start">Обновление медиатеки запущено</string>
   <string name="batch_operation_confirm">Выбранные песни (%2$d) будут удалены</string>
   <string name="batch_operation_one_song_confirm">Эта песня будет удалена</string>
