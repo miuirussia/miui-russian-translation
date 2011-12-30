@@ -258,7 +258,7 @@
   <string name="menu_display_only_phones">Показать только контакты с телефонами</string>
   <string name="menu_sim_contact">Контакты на SIM</string>
   <string name="openDialKeyboard">Клавиатура</string>
-  <string name="openDialer">Телефон</string>
+  <string name="openDialer">Октрыть телефон</string>
   <string name="nameContactsCount">%d контакт(ов)</string>
   <string name="contactsGroupsLabel">Группы</string>
   <string name="group_summary_format">%s чел.\u0020</string>
