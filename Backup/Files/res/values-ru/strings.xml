@@ -55,7 +55,6 @@
   <string name="cloud_restore_title">Восстановление</string>
   <string name="local_backup_window_title">Локальное</string>
   <string name="local_restore_window_title">Локальное восстановление</string>
-  <string name="local_restore_window_title">Восстановление из р.к.:</string>
   <string name="account_login">Войти в систему</string>
   <string name="miliao_account_login">Войти в MiTalk</string>
   <string name="miliao_account_guide">"MiTalk повышен до аккаунта Xiaomi
