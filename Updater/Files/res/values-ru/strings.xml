@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
   <!--This file translated by KOJAN Development Group with ATE2-->
-  <string name="app_name">Обновление</string>
+  <string name="app_name">Обновления</string>
   <string name="apply_now_button_text">Обновить</string>
   <string name="view_details">Подробнее</string>
   <string name="download_whole_rom">Полный пакет (%s)</string>
@@ -31,7 +31,7 @@
   <string name="sdcard_is_not_present_dialog_title">Нет SD-карты</string>
   <string name="sdcard_has_no_space_dialog_body">Нет места на SD карте, пожалуйста очистите</string>
   <string name="sdcard_has_no_space_dialog_title">Нет места на SD карте</string>
-  <string name="current_version_text">Текущая версия:\u0020</string>
+  <string name="current_version_text">Текущая версия прошивки:\u0020</string>
   <string name="apply_update_dialog_update_button">Обновить</string>
   <string name="apply_update_dialog_cancel_button">Отмена</string>
   <string name="check_now">Проверка обновлений</string>
