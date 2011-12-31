@@ -226,7 +226,7 @@
   <string name="lockpassword_pin_too_short">PIN-код должен содержать не менее %d символов</string>
   <string name="lockpassword_press_continue">После завершения нажмите \"Продолжить\"</string>
   <string name="lockpassword_continue_label">Продолжить</string>
-  <string name="lockpassword_password_too_long">ПИН-код не может быть длиннее %d симв</string>
+  <string name="lockpassword_password_too_long">PIN-код не может быть длиннее %d симв</string>
   <string name="lockpassword_pin_too_long">PIN-код не может быть длиннее %d симв</string>
   <string name="lockpassword_pin_contains_non_digits">PIN-код должен состоять только из цифр от 0 до 9</string>
   <string name="lockpassword_illegal_character">Пароль содержит недопустимые символы</string>
@@ -568,7 +568,7 @@
   <string name="tethering_help_button_text">Справка</string>
   <string name="network_settings_title">Мобильная сеть</string>
   <string name="network_settings_summary">Настроить параметры роуминга, сетей, точек доступа (APN)</string>
-  <string name="location_title">Местоположение</string>
+  <string name="location_title">Настройки GPS</string>
   <string name="location_network_based">Беспроводные сети</string>
   <string name="location_networks_disabled">Использовать Wi-Fi и сотовые сети для определения местоположения</string>
   <string name="location_neighborhood_level">Использовать Wi-Fi и сотовые сети для определения местоположения</string>
@@ -590,14 +590,14 @@
   <string name="settings_safetylegal_activity_title">Сведения о безопасности</string>
   <string name="settings_safetylegal_activity_loading">Идет загрузка…</string>
   <string name="lockpassword_choose_your_password_header">Выберите пароль</string>
-  <string name="lockpassword_choose_your_pin_header">Выберите ПИН-код</string>
+  <string name="lockpassword_choose_your_pin_header">Выберите PIN-код</string>
   <string name="lockpassword_confirm_your_password_header">Подтвердите пароль</string>
-  <string name="lockpassword_confirm_your_pin_header">Подтвердите ПИН-код</string>
+  <string name="lockpassword_confirm_your_pin_header">Подтвердите PIN-код</string>
   <string name="lockpassword_confirm_passwords_dont_match">Пароли не совпадают</string>
   <string name="lockpassword_confirm_pins_dont_match">PIN-коды не совпадают</string>
   <string name="lock_settings_title">Блокировка экрана</string>
   <string name="lockpattern_change_lock_pattern_label">Изменить ключ</string>
-  <string name="lockpattern_change_lock_pin_label">Изменить ПИН-код разблокировки</string>
+  <string name="lockpattern_change_lock_pin_label">Изменить PIN-код разблокировки</string>
   <string name="lockpattern_need_to_unlock">Начертите существующий ключ</string>
   <string name="lockpattern_need_to_unlock_wrong">Повторите попытку:</string>
   <string name="lockpattern_recording_intro_header">Начертите графический ключ разблокировки</string>
