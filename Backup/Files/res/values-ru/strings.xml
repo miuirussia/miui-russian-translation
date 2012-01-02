@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
   <!--This file translated by KOJAN Development Group with ATE2-->
-  <string name="app_name">Р.К.</string>
+  <string name="app_name">Бэкап</string>
   <string name="local_app_name">Резервное копирование</string>
-  <string name="local_home_title">Локальное</string>
+  <string name="local_home_title">Локальный</string>
   <string name="button_backup">Создать резервную копию</string>
   <string name="start_backup">Начать</string>
   <string name="button_cancel">Отмена</string>
@@ -11,20 +11,20 @@
   <string name="backup_items_sysdata_tailer">\u0020-\u0020системные данные,\u0020</string>
   <string name="backup_items_app_tailer">\u0020- данные приложений</string>
   <string name="backup_failed">Резервное копирование не удалось, попробуйте еще раз</string>
-  <string name="backup_recently">\u0020(Последняя р.к.)</string>
+  <string name="backup_recently">(Последний)</string>
   <string name="sdcard_unmounted">SD-карта не найдена или отключена</string>
   <string name="backup_progress">Выполняется резервная копия...</string>
   <string name="button_ok">OК</string>
-  <string name="backup_finished">Резервирование выполнено</string>
+  <string name="backup_finished">Готово</string>
   <string name="backup_report">Отчет</string>
-  <string name="backup_hint">Не выключайте телефон, это повредит ваши данные!</string>
+  <string name="backup_hint">Не выключайте телефон - это повредит ваши данные!</string>
   <string name="menu_patch_delete">Удаление резервных копий</string>
   <string name="delete">Удалить</string>
   <string name="cancel">Отмена</string>
   <string name="delete_backup">Удалить резервную копию</string>
-  <string name="delete_backup_confirm">Резервная копия будет удалена</string>
+  <string name="delete_backup_confirm">\u0020Резервная копия будет удалена</string>
   <string name="delete_backup_process">Выполняется удаление, пожалуйста, подождите...</string>
-  <string name="backup_error">Ошибка Р.К.</string>
+  <string name="backup_error">Ошибка</string>
   <string name="delete_failed_backup_confirm">Ошибка резервного копирования, не возможно восстановить данные из этой резервной копии</string>
   <string name="batch_delete_backup_confirm">Резервные копии будут удалены</string>
   <string name="start_restore">Начать восстановление</string>

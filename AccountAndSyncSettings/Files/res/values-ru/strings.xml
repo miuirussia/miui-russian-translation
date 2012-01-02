@@ -11,7 +11,7 @@
   <string name="sync_automatically_summary">Приложения синхронизируют данные автоматически</string>
   <string name="settings_backup">Сохранение настроек</string>
   <string name="settings_backup_summary">Сохранить мои настройки</string>
-  <string name="sync_menu_sync_now">Синхр. сейчас</string>
+  <string name="sync_menu_sync_now">Синхронизировать сейчас</string>
   <string name="sync_menu_sync_cancel">Отмена синхронизации</string>
   <string name="sync_one_time_sync">Нажмите для синхронизации \n%1$s</string>
   <string name="sync_gmail">Gmail</string>
