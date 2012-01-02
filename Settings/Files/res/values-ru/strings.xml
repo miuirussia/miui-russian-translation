@@ -1112,8 +1112,8 @@
   <string name="enable_back_long_press">Закрывает приложение</string>
   <string name="back_long_press_timeout">%1$.1f сек.</string>
   <string name="power_key">Кнопка питания на локскрине</string>
-  <string name="disable_power_key_long_press_under_keyguard">Не реагировать на нажатия</string>
-  <string name="media_button">На локскрине кнопки плеера:</string>
+  <string name="disable_power_key_long_press_under_keyguard">Не реагирует на нажатия</string>
+  <string name="media_button">На локскрине кнопки плеера</string>
   <string name="preferred_media_app_summary">Управляют приложением</string>
   <string name="no_media_button_receiver">Нет</string>
   <string name="camera_key_action_title">Кнопка MI</string>
@@ -1491,12 +1491,12 @@ LED-индикатора"</string>
   <string name="sensor_gravity">Датчик гравитации</string>
   <string name="sensor_linear_acceleration">Датчик линейного ускорения</string>
   <string name="sensor_rotation_vector">Датчик векторного вращения</string>
-  <string name="lpa_decode">Режим экономи аудио-плеера</string>
+  <string name="lpa_decode">Режим экономии аудио-плеера</string>
   <string name="lpa_decode_summary">Влияет на потребление заряда батареи, спектр и эквалайзер. Нужна перезагрузка системы</string>
   <string name="lpa_decode_on_hint">Нажмите OK для перезагрузки и включения маломощного аудио-плеера</string>
   <string name="lpa_decode_off_hint">Нажмите OK для перезагрузки и выключения маломощного аудио-плеера</string>
-  <string name="pref_volume_category_title">Громкость</string>
-  <string name="pref_volume_wake_title">Разблокировка громкостью</string>
+  <string name="pref_volume_category_title">Клавиши громкости</string>
+  <string name="pref_volume_wake_title">Разблокируют экран</string>
   <string name="pref_volume_wake_summary">Нажатие на кнопки громкости (вверх/вниз) разблокирует ваше устройство. Рекомендуется при сломанной кнопке Питание</string>
   <string name="settings_safetylegal_activity_unreachable">Телефон не подключен к службе передачи данных. Чтобы просмотреть эту информацию, откройте страницу %s на любом компьютере, подключенном к Интернету</string>
   <string name="master_clear_final_button_text">Удалить все</string>
