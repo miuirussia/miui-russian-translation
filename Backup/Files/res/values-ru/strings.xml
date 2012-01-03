@@ -145,7 +145,7 @@
   <string name="cloud_no_backup">Нет резервных копий</string>
   <string name="current_account">Аккаунт %s</string>
   <string name="current_sim">Текущая SIM-карта</string>
-  <string name="date_format">dd-MM-yyyy H:mm</string>
+  <string name="date_format">dd-MM-yyyy_H.mm</string>
   <string name="dir_date_format">dd-MM-yyyy_H.mm</string>
   <string name="no_network">Нет сетевого соединения
 Пожалуйста, проверьте ваше соединение и попробуйте еще раз</string>
