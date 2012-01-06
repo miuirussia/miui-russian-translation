@@ -527,7 +527,7 @@
   <string name="menu_restore">Восстановить настройки по умолчанию</string>
   <string name="restore_default_apn_completed">Восстановление настроек APN по умолчанию завершено</string>
   <string name="master_clear_title">Сброс настроек</string>
-  <string name="master_clear_summary">Удаляет все данные из памяти телефона</string>
+  <string name="master_clear_summary">Удаляет все данные из памяти телефона&lt;/string>
   <string name="master_clear_desc">"С телефона будут удалены все данные, в том числе: 
 ваш аккаунт Google,
 данные и настройки системы и приложений,
@@ -700,7 +700,7 @@
   <string name="invalid_location">Указано недопустимое место установки</string>
   <string name="system_package">Системные обновления не могут быть установлены на внешнем носителе</string>
   <string name="force_stop_dlg_title">Принудительная остановка</string>
-  <string name="force_stop_dlg_text">Программа будет перезапущена. Вы действительно хотите выполнить принудительную остановку?</string>
+  <string name="force_stop_dlg_text">Программа будет закрыта, в можете потерять несохраненные данные!</string>
   <string name="move_app_failed_dlg_title">Перемещение приложения</string>
   <string name="move_app_failed_dlg_text">Не удалось переместить приложение. %1$s</string>
   <string name="app_install_location_title">Место установки</string>
@@ -838,8 +838,8 @@
 
 Нажмите OK, чтобы установить программу чтения с экрана"</string>
   <string name="accessibility_power_button_category">Кнопка питания</string>
-  <string name="accessibility_power_button_ends_call">Заверш. вызов кнопкой</string>
-  <string name="accessibility_power_button_ends_call_summary">Завершать вызов при нажатии кнопки питания</string>
+  <string name="accessibility_power_button_ends_call">Нажатие кнопки Питание</string>
+  <string name="accessibility_power_button_ends_call_summary">Завершает вызов</string>
   <string name="power_usage_summary_title">Расход заряда батареи</string>
   <string name="power_usage_summary">На что расходуется заряд батареи</string>
   <string name="battery_since_unplugged">Расход заряда батареи с момента отключения от сети питания</string>
@@ -1158,7 +1158,7 @@
   <string name="breathing_light_freq_title">Частота мерцания</string>
   <string name="breathing_light_freq_summary">"Интервал между мерцаниями
 LED-индикатора"</string>
-  <string name="battery_settings">Экономия энергии</string>
+  <string name="battery_settings">Настройки батареи</string>
   <string name="battery_settings_title">Настройки батареи</string>
   <string name="battery_indicator_style">Стиль индикатора батареи</string>
   <string name="battery_low_level">Значение для предупреждения о низком уровне заряда батареи</string>
@@ -1189,7 +1189,7 @@ LED-индикатора"</string>
   <string name="battery_auto_saving_rule_haptic_summary">Отключение вибрации при взаимодействии с интерфейсом устройства</string>
   <string name="battery_auto_saving_rule_wallpaper">Отключить живые обои</string>
   <string name="battery_auto_saving_rule_wallpaper_summary">Живые обои потребляют много энергии и замедляют скорость работы системы</string>
-  <string name="battery_auto_saving_rule_screen_time_out">Автоотключение экрана</string>
+  &lt;string name="battery_auto_saving_rule_screen_time_out">Автоотключение экрана</string>
   <string name="battery_auto_saving_rule_screen_time_out_summary">Уменьшение времени автоотключения экрана, поможет сократить расход заряда батареи</string>
   <string name="battery_auto_saving_category_practise">Хотите узнать больше?</string>
   <string name="battery_auto_saving_practise">Советы по экономии заряда</string>
