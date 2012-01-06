@@ -78,9 +78,9 @@
   <string name="save_to_sdcard">Сохранить на SD-карту</string>
   <string name="damaged_file">Файл поврежден</string>
   <string name="camera_folder_display_name">Камера\u0020</string>
-  <string name="miui_capture_screen_folder_display_name">Скриншоты </string>
+  <string name="miui_capture_screen_folder_display_name">Скриншоты\u0020</string>
   <string name="internal_camera_folder_display_name">Камера (в памяти)\u0020</string>
-  <string name="internal_miui_capture_screen_folder_display_name">Скриншоты (в памяти) </string>
+  <string name="internal_miui_capture_screen_folder_display_name">Скриншоты (в памяти)\u0020</string>
   <string name="miliao_folder_display_name">MiTalk</string>
   <string name="miliao_painting_folder_display_name">Рисование MiTalk</string>
   <string name="must_pick_file">Сначала выберите файл</string>
