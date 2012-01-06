@@ -50,7 +50,7 @@
   <string name="battery_info_status_unknown">Неизвестно</string>
   <string name="battery_info_status_charging">Идет зарядка</string>
   <string name="battery_info_status_charging_ac">(переменный ток)</string>
-  <string name="battery_info_status_charging_usb">(USB)</string>
+  <string name="battery_info_status_charging_usb">(USB)оШ
   <string name="battery_info_status_discharging">Разрядка батареи</string>
   <string name="battery_info_status_not_charging">Не заряжается</string>
   <string name="battery_info_status_full">Заряжена</string>
@@ -654,7 +654,7 @@
   <string name="application_size_label">Приложение</string>
   <string name="data_size_label">Данные</string>
   <string name="uninstall_text">Удалить</string>
-  <string name="disable_text">Выключено</string>
+   <string name="disable_text">Выключено</string>
   <string name="enable_text">Включено</string>
   <string name="clear_user_data_text">Стереть данные</string>
   <string name="app_factory_reset">Удалить обновления</string>
@@ -700,7 +700,7 @@
   <string name="invalid_location">Указано недопустимое место установки</string>
   <string name="system_package">Системные обновления не могут быть установлены на внешнем носителе</string>
   <string name="force_stop_dlg_title">Принудительная остановка</string>
-  <string name="force_stop_dlg_text">Программа будет перезапущена. Вы действительно хотите выполнить принудительную остановку?</string>
+  <string name="force_stop_dlg_text">Программа будет перезапущена</string>
   <string name="move_app_failed_dlg_title">Перемещение приложения</string>
   <string name="move_app_failed_dlg_text">Не удалось переместить приложение. %1$s</string>
   <string name="app_install_location_title">Место установки</string>
@@ -837,8 +837,8 @@
 Вы можете загрузить программу чтения с экрана из Android-маркета.
 
 Нажмите OK, чтобы установить программу чтения с экрана"</string>
-  <string name="accessibility_power_button_category">Кнопка питания</string>
-  <string name="accessibility_power_button_ends_call">Заверш. вызов кнопкой</string>
+  <string name="accessibility_power_button_category">Нажатие кнопки Питание</string>
+  <string name="accessibility_power_button_ends_call">Завершает вызов</string>
   <string name="accessibility_power_button_ends_call_summary">Завершать вызов при нажатии кнопки питания</string>
   <string name="power_usage_summary_title">Расход заряда батареи</string>
   <string name="power_usage_summary">На что расходуется заряд батареи</string>
@@ -1158,7 +1158,7 @@
   <string name="breathing_light_freq_title">Частота мерцания</string>
   <string name="breathing_light_freq_summary">"Интервал между мерцаниями
 LED-индикатора"</string>
-  <string name="battery_settings">Экономия энергии</string>
+  <string name="battery_settings">Настройки батареи</string>
   <string name="battery_settings_title">Настройки батареи</string>
   <string name="battery_indicator_style">Стиль индикатора батареи</string>
   <string name="battery_low_level">Значение для предупреждения о низком уровне заряда батареи</string>
