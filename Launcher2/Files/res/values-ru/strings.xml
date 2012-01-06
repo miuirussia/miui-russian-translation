@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
   <string name="home_indicator">bottom_point</string>
-  <string name="wallpaper_scrolling">all</string>
+  <string name="wallpaper_scrolling">все</string>
   <string name="application_name">Рабочий стол</string>
   <string name="folder_name">Папка</string>
   <string name="chooser_wallpaper">Выбрать обои из</string>
@@ -56,7 +56,7 @@
   <string name="preferences_general_title">Основные настройки</string>
   <string name="pref_keep_in_memory_title">Держать в памяти</string>
   <string name="pref_keep_in_memory_summary">Держать приложение (Launcher) в памяти. Приложение не будет отключаться</string>
-  <string name="pref_render_in_truecolor_title">Качественные цвета</string>
+  <string name="pref_render_in_truecolor_title">Естественные цвета</string>
   <string name="pref_render_in_truecolor_summary">Включите, чтобы улучшить качество цветов</string>
   <string name="pref_enable_drawing_cache_title">Кэш Графики</string>
   <string name="pref_enable_drawing_cache_summary">Включение этой опции позволит высвободить больше памяти \n, но это снизит поток</string>
@@ -84,7 +84,7 @@
   <string name="gadget_clock_24_label">Часы</string>
   <string name="gadget_photo_44_label">Фоторамка</string>
   <string name="gadget_photo_22_label">Фоторамка</string>
-  <string name="gadget_photo_24_label">Фоторамка</string>
+  <string Reducer
   <string name="gadget_load_error">Ошибка загрузки виджета...</string>
   <string name="invalid_contact_shortcut">Недопустимый ярлык</string>
   <string name="guide_tips_editing_mode">Нажмите на иконку виджета и перетащите на рабочий стол</string>
