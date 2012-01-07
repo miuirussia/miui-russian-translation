@@ -700,7 +700,7 @@
   <string name="invalid_location">Указано недопустимое место установки</string>
   <string name="system_package">Системные обновления не могут быть установлены на внешнем носителе</string>
   <string name="force_stop_dlg_title">Принудительная остановка</string>
-  <string name="force_stop_dlg_text">Программа будет закрыта, в можете потерять несохраненные данные!</string>
+  <string name="force_stop_dlg_text">Программа будет закрыта, вы можете потерять несохраненные данные!</string>
   <string name="move_app_failed_dlg_title">Перемещение приложения</string>
   <string name="move_app_failed_dlg_text">Не удалось переместить приложение. %1$s</string>
   <string name="app_install_location_title">Место установки</string>
