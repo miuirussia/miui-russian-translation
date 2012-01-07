@@ -32,16 +32,16 @@
   <string name="dialog_room">Тип эффекта</string>
   <string name="menu_reset">Сброс</string>
   <string name="eq_preset_acoustic">Акустический</string>
-  <string name="eq_preset_bass_booster">Bass Booster</string>
-  <string name="eq_preset_bass_reducer">Bass Reducer</string>
+  <string name="eq_preset_bass_booster">Усилить низкие</string>
+  <string name="eq_preset_bass_reducer">Обрезать низкие</string>
   <string name="eq_preset_classical">Классический</string>
   <string name="eq_preset_deep">Глубокий</string>
   <string name="eq_preset_flat">Квартира</string>
   <string name="eq_preset_r_and_b">R&B</string>
   <string name="eq_preset_rock">Рок</string>
   <string name="eq_preset_small_speakers">Маленькие динамики</string>
-  <string name="eq_preset_treble_booster">Treble Booster</string>
-  <string name="eq_preset_treble_reducer">Treble Reducer</string>
+  <string name="eq_preset_treble_booster">Усилить высокие</string>
+  <string name="eq_preset_treble_reducer">Обрезать высокие</string>
   <string name="eq_preset_vocal_booster">Вокальный Booster</string>
   <string name="eq_preset_custom">Настраиваемый</string>
 </resources>
