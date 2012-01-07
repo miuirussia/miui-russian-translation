@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<resources>
+<!--Translated with Android Translation Wizard v0.0.0.165--><resources>
     <string name="application_name">Каталог живых обоев</string>
     <string name="live_wallpaper_picker_title">Живые обои</string>
     <string name="live_wallpaper_preview_title">Предпросмотр живых обоев</string>

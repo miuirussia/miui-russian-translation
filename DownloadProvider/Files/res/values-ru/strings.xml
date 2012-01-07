@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<resources>
+<!--Translated with Android Translation Wizard v0.0.0.165--><resources>
     <string name="app_label">Диспетчер загрузки</string>
     <string name="permlab_downloadManager">Доступ к менеджеру загрузки.</string>
     <string name="permdesc_downloadManager">Предоставляет приложению доступ к менеджеру загрузки и позволяет использовать его для загрузки файлов. Вредоносное ПО может пользоваться этим для прерывания загрузок и доступа к личной информации.</string>

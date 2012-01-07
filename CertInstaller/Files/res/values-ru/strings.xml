@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<resources>
+<!--Translated with Android Translation Wizard v0.0.0.165--><resources>
     <string name="app_name">Программа установки сертификата</string>
     <string name="pick_file_title">Выберите сертификат</string>
     <string name="pkcs12_password_dialog_title">Извлечение из хранилища ключей PKCS12</string>
