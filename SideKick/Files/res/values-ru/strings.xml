@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
-  <string name="sidekick_activity_label">SideKick</string>
+  <string name="sidekick_activity_label">Д. задач и поиск</string>
   <string name="menu_preferences">Параметры поиска</string>
   <string name="menu_history">История поиска</string>
   <string name="search_hint">Введите ключевое слово</string>
@@ -31,6 +31,6 @@
   <string name="default_web_search_engine_google">http://www.google.ru/m/search?q=</string>
   <string name="default_web_search_engine_baidu">http://yandex.ru/yandsearch?text=</string>
   <string name="recent_dialog_buttonAppKiller_summary">Освобождено %1$s памяти\nСейчас доступно: %2$s</string>
-  <string name="recent_dialog_buttonAppKiller">Завершить</string>
+  <string name="recent_dialog_buttonAppKiller">Закрыть все</string>
   <string name="recent_dialog_buttonTaskManager">Приложения</string>
 </resources>
