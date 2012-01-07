@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
   <!--This file translated by KOJAN Development Group with ATE2-->
   <string name="conversation_style">bubble</string>
@@ -240,7 +240,7 @@
   <string name="delivery_report_activity">Отчет о доставке</string>
   <string name="change_duration_activity">Изменить продолжительность</string>
   <string name="edit_slideshow_activity">Изменить слайд-шоу</string>
-  <string name= "edit_slide_activity">Изменить слайд</string>
+  <string name="edit_slide_activity">Изменить слайд</string>
   <string name="slideshow_activity">Слайдшоу</string>
   <string name="class_0_message_activity">Class 0 Message</string>
   <string name="search_label">Сообщения</string>

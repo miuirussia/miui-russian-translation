@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
   <string name="app_name">Эквалайзер</string>
   <string name="dB">+0 dB</string>
@@ -37,7 +37,7 @@
   <string name="eq_preset_classical">Классический</string>
   <string name="eq_preset_deep">Глубокий</string>
   <string name="eq_preset_flat">Квартира</string>
-  <string name="eq_preset_r_and_b">R&amp;B</string>
+  <string name="eq_preset_r_and_b">R&B</string>
   <string name="eq_preset_rock">Рок</string>
   <string name="eq_preset_small_speakers">Маленькие динамики</string>
   <string name="eq_preset_treble_booster">Treble Booster</string>

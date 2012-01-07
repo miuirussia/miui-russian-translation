@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
   <!--This file translated by KOJAN Development Group with ATE2-->
   <string name="app_name">Радио</string>
@@ -36,7 +36,7 @@
   <string name="service_start_error_title">Радио не удалось запустить службу.</string>
   <string name="service_start_error_msg">Ошибка запуска сервиса, перезапустите радио</string>
   <string name="service_start_error_button">Выход</string>
-  <string name="fm_pty_list_00" />
+  <string name="fm_pty_list_00"/>
   <string name="fm_pty_list_01">News</string>
   <string name="fm_pty_list_02">Current Affairs</string>
   <string name="fm_pty_list_03">Information</string>
@@ -68,7 +68,7 @@
   <string name="fm_pty_list_29">Documentary</string>
   <string name="fm_pty_list_30">Alarm Test</string>
   <string name="fm_pty_list_31">Alarm</string>
-  <string name="fm_pty_list_32" />
+  <string name="fm_pty_list_32"/>
   <string name="fm_pty_list_33">News</string>
   <string name="fm_pty_list_34">Information</string>
   <string name="fm_pty_list_35">Sports</string>

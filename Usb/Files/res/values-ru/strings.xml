@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
   <!--This file translated by KOJAN Development Group with ATE2-->
-  <string name="current_usb_state_file_name" />
+  <string name="current_usb_state_file_name"/>
   <string name="usb_toast_connecting">USB подключен как: %s.</string>
   <string name="usb_toast_phone_data_disabled">Данные телефона отключены.</string>
   <string name="usb_selection_notification_title">USB-подключение</string>
@@ -9,7 +9,7 @@
   <string name="usb_selection_notification_message_for_modem">Косн. для откл. и открытия внутр. данных телефона</string>
   <string name="usb_tethered_message">Режим USB-соединения не может быть изменен в то время как USB-модем активен</string>
   <string name="usb_connection">USB-подключение</string>
-  <string name="usb_mode_ngp">Портал &amp; Инструменты</string>
+  <string name="usb_mode_ngp">Портал & Инструменты</string>
   <string name="usb_mode_mtp">Синхронизация Windows Media</string>
   <string name="usb_mode_msc">Доступ к карте памяти</string>
   <string name="usb_mode_rndis">USB-Сеть</string>

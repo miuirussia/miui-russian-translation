@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="usb_period">.</string>
     <string name="usb_ok">ОК</string>
@@ -13,7 +13,7 @@
     <string name="usb_selection_notification_message">Выберите для управления USB-подключением</string>
     <string name="usb_selection_notification_message_for_modem">Косн. для откл. и открытия внутр. данных телефона</string>
     <string name="usb_connection">USB-подключение</string>
-    <string name="usb_mode_ngp">Портал &amp; Инструменты</string>
+    <string name="usb_mode_ngp">Портал & Инструменты</string>
     <string name="usb_mode_mtp">Синхронизация Windows Media</string>
     <string name="usb_mode_msc">Доступ к карте памяти</string>
     <string name="usb_mode_modem">Телефон как модем</string>

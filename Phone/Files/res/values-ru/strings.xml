@@ -296,11 +296,11 @@
   <string name="label_puk_code">Введите PUK-код</string>
   <string name="puk_lock_warning">"
 Обратите внимание, что SIM-карта полностью заблокируется, если вы введете код неверно еще раз!"</string>
-  <string name="pin2_lock_warning" />
-  <string name="invalid_new_pin" />
-  <string name="invalid_new_pin2" />
-  <string name="invalid_puk" />
-  <string name="pin2_locked_message" />
+  <string name="pin2_lock_warning"/>
+  <string name="invalid_new_pin"/>
+  <string name="invalid_new_pin2"/>
+  <string name="invalid_puk"/>
+  <string name="pin2_locked_message"/>
   <string name="bad_puk">PUK-код введен неправильно. Пожалуйста, попробуйте еще раз</string>
   <string name="caller_manage_manage_done_text">Вернуться к вызову</string>
   <string name="fake_phone_activity_phoneNumber_text">+7 (123) 123-4567</string>

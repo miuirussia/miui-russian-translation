@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
   <!--This file translated by KOJAN Development Group with ATE2-->
   <string name="app_name">Темы</string>
@@ -29,7 +29,7 @@
   <string name="theme_component_title_notification">Уведомления</string>
   <string name="theme_component_title_alarm">Будильник</string>
   <string name="theme_component_title_contact">Контакты</string>
-  <string name=   "theme_component_title_lockstyle">Экран блокировки</string>
+  <string name="theme_component_title_lockstyle">Экран блокировки</string>
   <string name="theme_component_title_statusbar">Статус-бар</string>
   <string name="theme_component_title_launcher">Рабочий стол</string>
   <string name="theme_component_title_audio_effect">Эффекты</string>

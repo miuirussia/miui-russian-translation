@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
   <!--This file translated by KOJAN Development Group with ATE2-->
   <string name="yes">Да</string>
@@ -74,7 +74,7 @@
   <string name="bluetooth_visibility_timeout_summary">Укажите, как долго можно будет обнаружить устройство</string>
   <string name="bluetooth_devices">Устройства Bluetooth</string>
   <string name="bluetooth_device_name">Имя устройства</string>
-  <string name="bluetooth_name_not_set" />
+  <string name="bluetooth_name_not_set"/>
   <string name="bluetooth_disconnect_blank">%1$s будет отключено</string>
   <string name="bluetooth_connected">Подключено</string>
   <string name="bluetooth_disconnected">Отключено</string>
@@ -100,7 +100,7 @@
   <string name="bluetooth_settings_text">Пустая кнопка</string>
   <string name="bluetooth_enable_text">Пустая кнопка</string>
   <string name="bluetooth_device_info_connectButton_text">Включите Bluetooth</string>
-  <string name="bluetooth_device_info_deviceInfo_text" />
+  <string name="bluetooth_device_info_deviceInfo_text"/>
   <string name="bluetooth_connection_permission_request">Запрос соединения Bluetooth</string>
   <string name="bluetooth_connection_notif_message">Нажмите для подключения к \"%1$s\"</string>
   <string name="bluetooth_connection_dialog_text">Вы хотите подключиться к \"%1$s\"?</string>
@@ -1252,7 +1252,7 @@ LED-индикатора"</string>
   <string name="ll_kb">Клавиатура:</string>
   <string name="ll_disabled">Выключено</string>
   <string name="ll_default">По умолчанию</string>
-  <string name="ll_save">Сохранить &amp; Применить</string>
+  <string name="ll_save">Сохранить & Применить</string>
   <string name="ll_reload">Перезагр. текущий</string>
   <string name="ll_bad_levels">Уровни должны увеличиваться</string>
   <string name="ll_num_levels">Установить число уровней</string>

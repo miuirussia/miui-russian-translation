@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
   <!--This file translated by KOJAN Development Group with ATE2-->
   <string name="app_label">Строка состояния</string>
@@ -22,7 +22,7 @@
   <string name="status_bar_time_format_12">h:mma</string>
   <string name="status_bar_time_format_24">H:mm</string>
   <string name="status_bar_date_format">d MMMM yyyy,</string>
-  <string name="status_bar_date_format_lock" />
+  <string name="status_bar_date_format_lock"/>
   <string name="usb_mode_notification">Режим накопителя</string>
   <string name="usb_mode_dont_ask">Не спрашивать в следующий раз</string>
   <string name="usb_mode_mount_storage_title">Хотите включить режим накопителя?</string>
