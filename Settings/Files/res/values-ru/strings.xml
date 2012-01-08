@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Translated with Android Translation Wizard v0.0.0.165--><resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
-  <!--This file translated by KOJAN Development Group with ATE2-->
+<!--Translated with Android Translation Wizard v0.0.0.165-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
   <string name="yes">Да</string>
   <string name="no">Нет</string>
   <string name="device_info_default">Неизвестно</string>
@@ -1252,7 +1252,7 @@ LED-индикатора"</string>
   <string name="ll_kb">Клавиатура:</string>
   <string name="ll_disabled">Выключено</string>
   <string name="ll_default">По умолчанию</string>
-  <string name="ll_save">Сохранить & Применить</string>
+  <string name="ll_save">Сохранить и Применить</string>
   <string name="ll_reload">Перезагр. текущий</string>
   <string name="ll_bad_levels">Уровни должны увеличиваться</string>
   <string name="ll_num_levels">Установить число уровней</string>

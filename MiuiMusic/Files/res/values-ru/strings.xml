@@ -237,8 +237,8 @@
   <string name="durationformatshort">%2$2d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
-  <string name="url_default_lyric">http://120.195.13.122/q?title=%1$s&artist=%2$s</string>
-  <string name="url_album">http://xshare.api.xiaomi.com/xShare?do=mp3.cover.search&album=%1$s&artist=%2$s</string>
+  <string name="url_default_lyric">http://120.195.13.122/q?title=%1$s&amp;artist=%2$s</string>
+  <string name="url_album">http://xshare.api.xiaomi.com/xShare?do=mp3.cover.search&amp;album=%1$s&amp;artist=%2$s</string>
   <string name="url_feedback">http://sj.xiaomi.com/miniphp/ajax.php</string>
   <string name="url_update">http://xshare.api.xiaomi.com/player</string>
   <string name="url_debug_update">http://intranet.xiaomi.com/player</string>
