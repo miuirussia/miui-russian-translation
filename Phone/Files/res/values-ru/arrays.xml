@@ -1,85 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<resources>
-    <string-array name="dialer_click_entries">
-        <item>Звонок</item>
-        <item>Просмотр контакта</item>
-    </string-array>
-    <string-array name="dialer_click_values">
-        <item>0</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="voice_quality_ui_values">
-        <item>Нормально</item>
-        <item>Чисто</item>
-        <item>Отчетливо</item>
-        <item>Ярко</item>
-    </string-array>
-    <string-array name="auto_answer_pref_entries">
-        <item>Не отвечать</item>
-        <item>Немедленный ответ</item>
-        <item>Задержка 5 секунд</item>
-    </string-array>
-    <string-array name="prefered_network_type_pref_entries">
-        <item>Автоматически</item>
-        <item>Только 2G (энергосбережение)</item>
-        <item>Только 3G</item>
-    </string-array>
-    <string-array name="clir_display_values">
-        <item>По умолчанию</item>
-        <item>Скрыть номер</item>
-        <item>Показать номер</item>
-    </string-array>
-    <string-array name="preferred_network_mode_choices">
-        <item>Global</item>
-        <item>EvDo only</item>
-        <item>CDMA w/o EvDo</item>
-        <item>CDMA / EvDo auto</item>
-        <item>GSM / WCDMA auto</item>
-        <item>WCDMA only</item>
-        <item>GSM only</item>
-        <item>GSM / WCDMA preferred</item>
-    </string-array>
-    <string-array name="list_language_entries">
-        <item>English</item>
-        <item>French</item>
-        <item>Spanish</item>
-        <item>Japanese</item>
-        <item>Korean</item>
-        <item>Chinese</item>
-        <item>Hebrew</item>
-    </string-array>
-    <string-array name="gsm_umts_network_preferences_choices">
-        <item>GSM/WCDMA (auto mode)</item>
-        <item>WCDMA only</item>
-        <item>GSM only</item>
-        <item>GSM/WCDA (WCDMA preferred)</item>
-    </string-array>
-    <string-array name="cdma_system_select_choices">
-        <item>Только домашний</item>
-        <item>Автоматически</item>
-    </string-array>
-    <string-array name="cdma_roaming_mode_choices">
-        <item>Только домашняя сеть</item>
-        <item>Связанные сети</item>
-        <item>Любая сеть</item>
-    </string-array>
-    <string-array name="cdma_network_preferences_choices">
-        <item>CDMA/EvDo</item>
-        <item>CDMA only</item>
-        <item>EvDo only</item>
-    </string-array>
-    <string-array name="cdma_subscription_choices">
-        <item>RUIM/SIM</item>
-        <item>NV</item>
-    </string-array>
-    <string-array name="tty_mode_entries">
-        <item>TTY Off</item>
-        <item>TTY Full</item>
-        <item>TTY HCO</item>
-        <item>TTY VCO</item>
-    </string-array>
-    <string-array name="dtmf_tone_entries">
-        <item>Нормальный</item>
-        <item>Длинный</item>
-    </string-array>
+<!--Created with Android Translaton Wizard v0.0.0.165--><resources>
+	<string-array name="dialer_click_entries">
+		<item>Звонок</item>
+		<item>Просмотр контакта</item>
+	</string-array>
+	<string-array name="dialer_click_values">
+		<item>0</item>
+		<item>2</item>
+	</string-array>
+	<string-array name="voice_quality_ui_values">
+		<item>Нормально</item>
+		<item>Чисто</item>
+		<item>Отчетливо</item>
+		<item>Ярко</item>
+	</string-array>
+	<string-array name="auto_answer_pref_entries">
+		<item>Не отвечать</item>
+		<item>Немедленный ответ</item>
+		<item>Задержка 5 секунд</item>
+	</string-array>
+	<string-array name="prefered_network_type_pref_entries">
+		<item>Автоматически</item>
+		<item>Только 2G (энергосбережение)</item>
+		<item>Только 3G</item>
+	</string-array>
+	<string-array name="clir_display_values">
+		<item>По умолчанию</item>
+		<item>Скрыть номер</item>
+		<item>Показать номер</item>
+	</string-array>
+	<string-array name="preferred_network_mode_choices">
+		<item>Global</item>
+		<item>EvDo only</item>
+		<item>CDMA w/o EvDo</item>
+		<item>CDMA / EvDo auto</item>
+		<item>GSM / WCDMA auto</item>
+		<item>WCDMA only</item>
+		<item>GSM only</item>
+		<item>GSM / WCDMA preferred</item>
+	</string-array>
+	<string-array name="list_language_entries">
+		<item>English</item>
+		<item>French</item>
+		<item>Spanish</item>
+		<item>Japanese</item>
+		<item>Korean</item>
+		<item>Chinese</item>
+		<item>Hebrew</item>
+	</string-array>
+	<string-array name="gsm_umts_network_preferences_choices">
+		<item>GSM/WCDMA (auto mode)</item>
+		<item>WCDMA only</item>
+		<item>GSM only</item>
+		<item>GSM/WCDA (WCDMA preferred)</item>
+	</string-array>
+	<string-array name="cdma_system_select_choices">
+		<item>Только домашний</item>
+		<item>Автоматически</item>
+	</string-array>
+	<string-array name="cdma_roaming_mode_choices">
+		<item>Только домашняя сеть</item>
+		<item>Связанные сети</item>
+		<item>Любая сеть</item>
+	</string-array>
+	<string-array name="cdma_network_preferences_choices">
+		<item>CDMA/EvDo</item>
+		<item>CDMA only</item>
+		<item>EvDo only</item>
+	</string-array>
+	<string-array name="cdma_subscription_choices">
+		<item>RUIM/SIM</item>
+		<item>NV</item>
+	</string-array>
+	<string-array name="tty_mode_entries">
+		<item>TTY Off</item>
+		<item>TTY Full</item>
+		<item>TTY HCO</item>
+		<item>TTY VCO</item>
+	</string-array>
+	<string-array name="dtmf_tone_entries">
+		<item>Нормальный</item>
+		<item>Длинный</item>
+	</string-array>
 </resources>

@@ -1,5 +1,6 @@
-<>
-	<string-translations FilePath="AccountAndSyncSettings\Files\res\values-ru\strings.xml">
+<?xml version="1.0" encoding="utf-8"?>
+<Dictionary>
+	<string-translations FilePath="AccountAndSyncSettings">
 		<string name="app_label">Аккаунт и настройки синхронизации</string>
 		<string name="sync_settings">Аккаунты и настройки синхронизации</string>
 		<string name="sync_too_many_deletes">Превышен лимит удаляемых</string>
@@ -94,7 +95,7 @@
 		<string name="disable_mitalk_dialog_title">Отключить MiTalk-синхронизацию</string>
 		<string name="disable_mitalk_dialog_message">Вы не сможете общаться по MiTalk с друзьями через контакты, вы уверены, что хотите продолжить?</string>
 	</string-translations>
-	<string-translations FilePath="AntiSpam\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="AntiSpam">
 		<string name="app_name">Фильтр</string>
 		<string name="firewall_settings_tab_title">Фильтр</string>
 		<string name="black_white_list_tab_title">Списки</string>
@@ -208,13 +209,13 @@
 		<string name="check_all">Выбрать все</string>
 		<string name="check_nothing">Снять выделение</string>
 	</string-translations>
-	<string-translations FilePath="ApplicationsProvider\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="ApplicationsProvider">
 		<string name="app_label">Приложения</string>
 		<string name="search_label">Приложения</string>
 		<string name="application_desc">Приложение</string>
 		<string name="settings_description">Поиск программ</string>
 	</string-translations>
-	<string-translations FilePath="Backup\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="Backup">
 		<string name="app_name">Бэкап</string>
 		<string name="local_app_name">Резервное копирование</string>
 		<string name="local_home_title">Локальный</string>
@@ -407,7 +408,7 @@
 		<string name="guarded_mode_dialog_message">Не могу работать в режиме защиты</string>
 		<string name="mms_title">Сообщения MMS</string>
 	</string-translations>
-	<string-translations FilePath="Bluetooth\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="Bluetooth">
 		<string name="permlab_bluetoothShareManager">Доступ к диспетчеру загрузки</string>
 		<string name="permdesc_bluetoothShareManager">Позволяет приложению получать доступ к диспетчеру передачи файлов по каналу Bluetooth и использовать его для передачи файлов</string>
 		<string name="bt_share_picker_label">Bluetooth</string>
@@ -528,7 +529,7 @@
 		<string name="start_server">Запустить TCP-сервер</string>
 		<string name="notify_server">Уведомить TCP-сервер</string>
 	</string-translations>
-	<string-translations FilePath="Browser\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="Browser">
 		<string name="common_minutes_ago">%s минут назад</string>
 		<string name="common_hours_ago">%s часов назад</string>
 		<string name="common_days_ago">%s дней назад</string>
@@ -828,7 +829,7 @@
 		<string name="notification_download_complete">загрузка завершена</string>
 		<string name="notification_download_failed">сбой загрузки</string>
 	</string-translations>
-	<string-translations FilePath="BugReport\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="BugReport">
 		<string name="app_label">User Feedback</string>
 		<string name="user_feedback">User Feedback</string>
 		<string name="report_miui">Report to MIUI</string>
@@ -869,7 +870,7 @@
 		<string name="info_section_system">System</string>
 		<string name="info_section_screenshot">Screenshot</string>
 	</string-translations>
-	<string-translations FilePath="Calculator\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="Calculator">
 		<string name="app_name">Калькулятор</string>
 		<string name="error">Ошибка</string>
 		<string name="digit0">0</string>
@@ -896,7 +897,7 @@
 		<string name="advanced">Дополнительная панель</string>
 		<string name="clear_history">Очистить историю</string>
 	</string-translations>
-	<string-translations FilePath="Calendar\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="Calendar">
 		<string name="weekday_day">%1$s %2$s</string>
 		<string name="month_year">%-B %Y</string>
 		<string name="app_label">Календарь</string>
@@ -1020,7 +1021,7 @@
 		<string name="yes">Да</string>
 		<string name="no">Нет</string>
 	</string-translations>
-	<string-translations FilePath="CalendarProvider\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="CalendarProvider">
 		<string name="calendar_storage">Память календаря</string>
 		<string name="gadget_title">Календарь</string>
 		<string name="no_title_label">(Нет заголовка)</string>
@@ -1033,7 +1034,7 @@
 		<string name="calendar_info_events_dirty">Мероприятий: %1$d; не сохранено: %2$d</string>
 		<string name="provider_label">Календарь</string>
 	</string-translations>
-	<string-translations FilePath="CertInstaller\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="CertInstaller">
 		<string name="app_name">Программа установки сертификата</string>
 		<string name="pick_file_title">Выберите сертификат</string>
 		<string name="pkcs12_password_dialog_title">Извлечение из хранилища ключей PKCS12</string>
@@ -1064,7 +1065,7 @@
 		<string name="no_cert_file_found">На SD-карте отсутствует файл сертификата</string>
 		<string name="sdcard_not_present">SD-карта отсутствует</string>
 	</string-translations>
-	<string-translations FilePath="CloudService\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="CloudService">
 		<string name="app_name">Менеджер аккаунтов Xiaomi</string>
 		<string name="service_name">Проверка аккаунтов Xiaomi</string>
 		<string name="authenticator_label">Xiaomi</string>
@@ -1123,7 +1124,7 @@
 		<string name="succeed">Готово</string>
 		<string name="settings_safetylegal_activity_unreachable">Ваш телефон не подключен к службе информации. Чтобы просмотреть эту информацию сейчас, перейдите по адресу: %s</string>
 	</string-translations>
-	<string-translations FilePath="Contacts\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="Contacts">
 		<string name="config_import_vcard_type">default</string>
 		<string name="config_export_vcard_type">default</string>
 		<string name="config_export_dir">/sdcard/MIUI/contacts</string>
@@ -1588,7 +1589,7 @@
 		<string name="my_miliao_card">Моя карточка</string>
 		<string name="t9_search_guide">Введите номер телефона или ищите контакт с помощью T9</string>
 	</string-translations>
-	<string-translations FilePath="ContactsProvider\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="ContactsProvider">
 		<string name="app_label">Хранилище контактов</string>
 		<string name="provider_label">Контакты</string>
 		<string name="upgrade_out_of_memory_notification_ticker">Для обновления контакта требуется больше памяти</string>
@@ -1599,7 +1600,7 @@
 		<string name="send_sms">Отправить сообщение</string>
 		<string name="pound_search_tip">Поиск номера, вводите после \"#\"</string>
 	</string-translations>
-	<string-translations FilePath="DeskClock\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="DeskClock">
 		<string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
 		<string name="app_label">Часы</string>
 		<string name="alarm_list_title">Будильник</string>
@@ -1659,7 +1660,7 @@
 		<string name="default_alarm_alert">Звук будильника</string>
 		<string name="correct_time_msg">Нажмите здесь, чтобы установить текущее время и дату</string>
 	</string-translations>
-	<string-translations FilePath="DownloadProvider\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="DownloadProvider">
 		<string name="app_label">Диспетчер загрузки</string>
 		<string name="permlab_downloadManager">Доступ к менеджеру загрузки.</string>
 		<string name="permdesc_downloadManager">Предоставляет приложению доступ к менеджеру загрузки и позволяет использовать его для загрузки файлов. Вредоносное ПО может пользоваться этим для прерывания загрузок и доступа к личной информации.</string>
@@ -1689,7 +1690,7 @@
 		<string name="button_cancel_download">Отмена</string>
 		<string name="button_start_now">Запустить</string>
 	</string-translations>
-	<string-translations FilePath="DownloadProviderUi\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="DownloadProviderUi">
 		<string name="app_label">Загрузки</string>
 		<string name="download_title">Загрузки</string>
 		<string name="no_downloads">Нет загрузок</string>
@@ -1748,14 +1749,14 @@
 		<string name="downloads_operating">Загрузка...</string>
 		<string name="confirm_disable_download_only_in_wifi_message">Выключение "Загружать только по Wi-Fi" может вызвать сильное потребление трафика через мобильную сеть. Вы уверены, что хотите выключить это?</string>
 	</string-translations>
-	<string-translations FilePath="DrmProvider\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="DrmProvider">
 		<string name="app_label">Хранилище содержания, защищенного DRM</string>
 		<string name="permlab_accessDrm">Доступ к содержанию DRM</string>
 		<string name="permdesc_accessDrm">Предоставляет приложению доступ к содержанию, защищенному DRM</string>
 		<string name="permlab_installDrm">Установка содержания DRM.</string>
 		<string name="permdesc_installDrm">Разрешает приложению устанавливать содержание, защищенное DRM</string>
 	</string-translations>
-	<string-translations FilePath="DSPManager\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="DSPManager">
 		<string name="app_name">Эквалайзер</string>
 		<string name="dB">+0 dB</string>
 		<string name="select_configuration_title">Выберите конфигурацию для редактирования</string>
@@ -1801,7 +1802,7 @@
 		<string name="eq_preset_vocal_booster">Вокальный Booster</string>
 		<string name="eq_preset_custom">Настраиваемый</string>
 	</string-translations>
-	<string-translations FilePath="Email\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="Email">
 		<string name="build_number">20080722-0001</string>
 		<string name="read_attachment_label">Открывать вложения</string>
 		<string name="read_attachment_desc">Разрешить этой программе открывать приложения электронной почты.</string>
@@ -2102,7 +2103,7 @@
 		<string name="move_to_newer">Далее</string>
 		<string name="attachment_divider">" - "</string>
 	</string-translations>
-	<string-translations FilePath="FileExplorer\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="FileExplorer">
 		<string name="added_favorite">Добавлено в избранное</string>
 		<string name="app_name">Файлы</string>
 		<string name="cancel">Отмена</string>
@@ -2195,7 +2196,7 @@
 		<string name="favorite_screen_cap">Скриншоты MIUI</string>
 		<string name="favorite_ringtone">Мелодии</string>
 	</string-translations>
-	<string-translations FilePath="FM\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="FM">
 		<string name="app_name">Радио</string>
 		<string name="fmradio_service_label">Радио</string>
 		<string name="ok">ОК</string>
@@ -2343,7 +2344,7 @@
 		<string name="fmradio_on_airplane_mode_in_listen">При включении режима полета, радио автоматически выключается</string>
 		<string name="fmradio_stop_unexpected">Радио остановилось</string>
 	</string-translations>
-	<string-translations FilePath="framework-res\Files\res\values-ru-rRU\strings.xml">
+	<string-translations FilePath="framework-res">
 		<string name="cancel">Отмена</string>
 		<string name="copy">Копировать</string>
 		<string name="copyUrl">Копировать URL</string>
@@ -3738,7 +3739,7 @@
 		<string name="managed_roaming_dialog_ok_button">Да</string>
 		<string name="managed_roaming_dialog_cancel_button">Нет</string>
 	</string-translations>
-	<string-translations FilePath="Gallery\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="Gallery">
 		<string name="app_name">Галерея</string>
 		<string name="support_gif_animation">GIF-анимация</string>
 		<string name="support_gif_animation_summary">Показывать GIF-анимацию</string>
@@ -3895,7 +3896,7 @@
 		<string name="photo_confirm">Готово</string>
 		<string name="photo_load_failed">Не удалось загрузить фото</string>
 	</string-translations>
-	<string-translations FilePath="Launcher2\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="Launcher2">
 		<string name="home_indicator">bottom_point</string>
 		<string name="wallpaper_scrolling">all</string>
 		<string name="application_name">Рабочий стол</string>
@@ -3996,7 +3997,7 @@
 		<string name="icon_label_summary">Выключите, чтобы скрыть подписи под иконками</string>
 		<string name="indicator_style">Индикатор столов</string>
 	</string-translations>
-	<string-translations FilePath="LiveWallpapersPicker\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="LiveWallpapersPicker">
 		<string name="application_name">Каталог живых обоев</string>
 		<string name="live_wallpaper_picker_title">Живые обои</string>
 		<string name="live_wallpaper_preview_title">Предпросмотр живых обоев</string>
@@ -4007,12 +4008,12 @@
 		<string name="wallpaper_title_and_author">%1$s, автор: %2$s</string>
 		<string name="live_wallpaper_loading">Загрузка живых обоев…</string>
 	</string-translations>
-	<string-translations FilePath="MediaProvider\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="MediaProvider">
 		<string name="uid_label">Медиа</string>
 		<string name="app_label">Медиа хранилище</string>
 		<string name="artist_label">Артист</string>
 	</string-translations>
-	<string-translations FilePath="MiuiCamera\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="MiuiCamera">
 		<string name="camera_error_title">Ошибка камеры</string>
 		<string name="cannot_connect_camera">Не удается подключиться к камере</string>
 		<string name="camera_label">Камера</string>
@@ -4158,7 +4159,7 @@
 		<string name="pref_camera_afzone_center">Центровзвешенный</string>
 		<string name="pref_camera_afzone_spot">Точечный замер</string>
 	</string-translations>
-	<string-translations FilePath="MiuiMusic\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="MiuiMusic">
 		<string name="onesong">1 песня</string>
 		<string name="send_to">Отправить песню через</string>
 		<string name="delete_item">Удалить\u0020</string>
@@ -4402,7 +4403,7 @@
 		<string name="url_update">http://xshare.api.xiaomi.com/player</string>
 		<string name="url_debug_update">http://intranet.xiaomi.com/player</string>
 	</string-translations>
-	<string-translations FilePath="MIUIsettings\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="MIUIsettings">
 		<string name="app_name">MIUI Настройки</string>
 		<string name="ambilwarna_cancel">Отмена</string>
 		<string name="ambilwarna_ok">OK</string>
@@ -4504,7 +4505,7 @@ EEEE, dd MMMM, yyyy h:mmaa -&gt; Понедельник, 06 Апреля, 1970 3
 		<string name="use_custom_summary">Включите для выбора цвета статусбара</string>
 		<string name="choose_statusbar_color">Цвет статусбара</string>
 	</string-translations>
-	<string-translations FilePath="Mms\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="Mms">
 		<string name="conversation_style">bubble</string>
 		<string name="prefDefault_ringtone_repeat">1</string>
 		<string name="app_label">Сообщения</string>
@@ -4879,7 +4880,7 @@ EEEE, dd MMMM, yyyy h:mmaa -&gt; Понедельник, 06 Апреля, 1970 3
 		<string name="privacy_mode_hint">Не удается отправить сообщение в режиме защиты</string>
 		<string name="wap_push_title">"[Push-сообщение] "</string>
 	</string-translations>
-	<string-translations FilePath="Monitor\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="Monitor">
 		<string name="app_name">Монитор</string>
 		<string name="duration">С %d.%d.%d по %d.%d.%d</string>
 		<string name="sms_unit">\u0020сообщений</string>
@@ -4953,7 +4954,7 @@ EEEE, dd MMMM, yyyy h:mmaa -&gt; Понедельник, 06 Апреля, 1970 3
 		<string name="apply_rules_failed_known">Ошибка применения правил</string>
 		<string name="apply_rules_failed">Ошибка применения правил</string>
 	</string-translations>
-	<string-translations FilePath="MotoUsb\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="MotoUsb">
 		<string name="usb_period">.</string>
 		<string name="usb_ok">ОК</string>
 		<string name="usb_cancel">Отмена</string>
@@ -4976,16 +4977,16 @@ EEEE, dd MMMM, yyyy h:mmaa -&gt; Понедельник, 06 Апреля, 1970 3
 		<string name="usb_progress_message">Перекл. на\u0020</string>
 		<string name="usb_error_message">USB-подключение невозм. изменить на\u0020</string>
 	</string-translations>
-	<string-translations FilePath="Notes\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="Notes">
 		<string name="app_name">Заметки</string>
 		<string name="app_widget2x2">Заметки</string>
 		<string name="app_widget4x4">Заметки</string>
 		<string name="button_set">Задать</string>
 		<string name="button_clear">Отмена</string>
-		<string name="widget_havenot_content">Нет заметок, нажмите чтобы создать заметку.</string>
-		<string name="widget_under_visit_mode">Режим конфиденциальности, не возможно просмотреть заметки</string>
+		<string name="widget_havenot_content">Нет заметок, нажмите сюда, чтобы создать заметку</string>
+		<string name="widget_under_visit_mode">Не возможно просмотреть заметки, потому что включен гостевой режим</string>
 		<string name="notelist_string_info">...</string>
-		<string name="notelist_menu_new">Заметка</string>
+		<string name="notelist_menu_new">Создать заметку</string>
 		<string name="noteedit_use_alert_time_error">Неудалось установить время</string>
 		<string name="note_alert_expired">Просрочено</string>
 		<string name="format_date_ymd">ddMMyyyy</string>
@@ -4998,8 +4999,8 @@ EEEE, dd MMMM, yyyy h:mmaa -&gt; Понедельник, 06 Апреля, 1970 3
 		<string name="note_link_other">Открыть карту</string>
 		<string name="file_path">/MIUI/notes/</string>
 		<string name="file_name_txt_format">notes_%s.txt</string>
-		<string name="format_folder_files_count">(%d)</string>
-		<string name="menu_create_folder">Новая папка</string>
+		<string name="format_folder_files_count">\u0020(%d)</string>
+		<string name="menu_create_folder">Создать папку</string>
 		<string name="menu_export_text">Экспорт текста</string>
 		<string name="menu_sync">Синхронизация</string>
 		<string name="menu_sync_cancel">Отмена синхронизации</string>
@@ -5016,18 +5017,18 @@ EEEE, dd MMMM, yyyy h:mmaa -&gt; Понедельник, 06 Апреля, 1970 3
 		<string name="menu_normal_mode">Отключить список</string>
 		<string name="menu_folder_view">Показать папку</string>
 		<string name="menu_folder_delete">Удалить папку</string>
-		<string name="menu_folder_change_name">Сменить имя папки</string>
+		<string name="menu_folder_change_name">Переименовать папку</string>
 		<string name="folder_exist">Такая папка %1$s уже существует</string>
 		<string name="menu_share">Отправить</string>
 		<string name="menu_send_to_desktop">На рабочий стол</string>
 		<string name="menu_alert">Напомнить мне</string>
 		<string name="menu_title_select_folder">Выберите папку</string>
 		<string name="menu_move_parent_folder">Назад</string>
-		<string name="info_note_enter_desktop">Записка добавленя на рабочий стол</string>
-		<string name="alert_message_delete_folder">Подтвердить удаление папки и ее заметок?</string>
+		<string name="info_note_enter_desktop">Заметка добавленя на рабочий стол</string>
+		<string name="alert_message_delete_folder">Папка вместе с содержащимися в ней заметками будет удалена</string>
 		<string name="alert_title_delete">Удалить выбранные заметки</string>
-		<string name="alert_message_delete_notes">Подтвердить удаление?</string>
-		<string name="alert_message_delete_note">Подтверждаете удаление?</string>
+		<string name="alert_message_delete_notes">Выбранные заметки будут удалены</string>
+		<string name="alert_message_delete_note">Заметка будет удалена</string>
 		<string name="format_move_notes_to_folder">Заметки %1$d перемещены в %2$s</string>
 		<string name="error_sdcard_unmounted">SD-карта занята и сейчас недоступна</string>
 		<string name="error_sdcard_export">Экспорт не удался, проверьте SD-карту</string>
@@ -5036,22 +5037,22 @@ EEEE, dd MMMM, yyyy h:mmaa -&gt; Понедельник, 06 Апреля, 1970 3
 		<string name="error_note_empty_for_send_to_desktop">Не могу отправить</string>
 		<string name="success_sdcard_export">Экспорт завершен</string>
 		<string name="failed_sdcard_export">Экспорт неудался</string>
-		<string name="format_exported_file_location">Заметка сохранена в файл (%1$s) в папке (%2$s) на SD-карте</string>
+		<string name="format_exported_file_location">Заметка сохранена в файл /"%1$s/" в папке %2$s на SD-карте</string>
 		<string name="ticker_syncing">Синхронизация заметок...</string>
-		<string name="ticker_success">Синхронизация успешна</string>
-		<string name="ticker_fail">Синхронизация не удалось</string>
+		<string name="ticker_success">Синхронизация завершена</string>
+		<string name="ticker_fail">Синхронизация не удалась</string>
 		<string name="ticker_cancel">Синхронизация отменена</string>
-		<string name="success_sync_account">Синхронизация успешна с аккаунтом %1$s</string>
-		<string name="error_sync_network">Синхр. не удалась, проверьте настройки сети и аккаунта</string>
-		<string name="error_sync_internal">Синхр. не удалась, внутренняя ошибка</string>
-		<string name="error_sync_cancelled">Синхр. отменена</string>
+		<string name="success_sync_account">Синхронизация с аккаунтом %1$s выполнена успешно</string>
+		<string name="error_sync_network">Синхронизация не удалась, проверьте настройки сети и аккаунта</string>
+		<string name="error_sync_internal">Синхронизация не удалась из-за внутренней ошибки</string>
+		<string name="error_sync_cancelled">Синхронизация отменена</string>
 		<string name="sync_progress_login">Вход в %1$s...</string>
 		<string name="sync_progress_init_list">Получение удаленного списка заметок...</string>
-		<string name="sync_progress_syncing">Синхр. локальных заметок с Google Task...</string>
+		<string name="sync_progress_syncing">Синхронизация локальных заметок с Google Task...</string>
 		<string name="preferences_title">Настройки</string>
 		<string name="preferences_account_title">Настройки синхр. аккаунта</string>
 		<string name="preferences_account_summary">Синхронизация с Google Task</string>
-		<string name="preferences_last_sync_time">Время последней синхр: %1$s</string>
+		<string name="preferences_last_sync_time">Последняя синхронизация произведена: %1$s</string>
 		<string name="preferences_last_sync_time_format">dd-MM-yyyy hh:mm:ss</string>
 		<string name="preferences_add_account">Добавить аккаунт</string>
 		<string name="preferences_menu_change_account">Сменить аккаунт</string>
@@ -5060,16 +5061,16 @@ EEEE, dd MMMM, yyyy h:mmaa -&gt; Понедельник, 06 Апреля, 1970 3
 		<string name="preferences_button_sync_immediately">Синхр. сейчас</string>
 		<string name="preferences_button_sync_cancel">Отмена синхронизации</string>
 		<string name="preferences_dialog_change_account_title">Аккаунт: %1$s</string>
-		<string name="preferences_dialog_change_account_warn_msg">Все информация будет удалена.</string>
+		<string name="preferences_dialog_change_account_warn_msg">Вся информация будет удалена</string>
 		<string name="preferences_dialog_select_account_title">Синхронизация заметок</string>
 		<string name="preferences_dialog_select_account_tips">Пожалуйста, выберите учетную запись Google. Заметки будут синхронизированы с Google Task</string>
-		<string name="preferences_toast_cannot_change_account">Не удается сменить аккаунт, потому синхронизации в прогрессе</string>
+		<string name="preferences_toast_cannot_change_account">Не удается сменить аккаунт</string>
 		<string name="preferences_toast_success_set_accout">%1$s был установлен в качестве синхронизации аккаунта</string>
 		<string name="preferences_bg_random_appear_title">Разноцветные заметки</string>
 		<string name="button_delete">Удалить</string>
 		<string name="button_cancel">Отмена</string>
 		<string name="button_check">Выбрать всё</string>
-		<string name="button_check_none">Ничего не выбирать</string>
+		<string name="button_check_none">Снять выделение</string>
 		<string name="button_move">Переместить</string>
 		<string name="call_record_folder_name">Отменить заметку</string>
 		<string name="hint_foler_name">Введите имя</string>
@@ -5081,7 +5082,7 @@ EEEE, dd MMMM, yyyy h:mmaa -&gt; Понедельник, 06 Апреля, 1970 3
 		<string name="preferences_set_password_title">Задать пароль</string>
 		<string name="preferences_set_password_summary">Требуется глобальный пароль при запуске приложения Заметки</string>
 	</string-translations>
-	<string-translations FilePath="PackageInstaller\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="PackageInstaller">
 		<string name="app_name">Программа установки пакетов</string>
 		<string name="install">Установка</string>
 		<string name="done">Готово</string>
@@ -5118,7 +5119,7 @@ EEEE, dd MMMM, yyyy h:mmaa -&gt; Понедельник, 06 Апреля, 1970 3
 		<string name="Parse_error_dlg_title">Синтаксическая ошибка</string>
 		<string name="Parse_error_dlg_text">При синтаксическом анализе пакета возникла неполадка</string>
 	</string-translations>
-	<string-translations FilePath="Phone\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="Phone">
 		<string name="contactsIconLabel">Контакты</string>
 		<string name="dialerIconLabel">Телефон</string>
 		<string name="emergencyDialerIconLabel">Номера экстренных вызовов</string>
@@ -5813,7 +5814,7 @@ EEEE, dd MMMM, yyyy h:mmaa -&gt; Понедельник, 06 Апреля, 1970 3
 		<string name="allow_3rd_app_listen_phone_event_title">Сторонние приложения</string>
 		<string name="allow_3rd_app_listen_phone_event_summary">Запретить сторонним приложениям использовать телефон</string>
 	</string-translations>
-	<string-translations FilePath="Settings\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="Settings">
 		<string name="yes">Да</string>
 		<string name="no">Нет</string>
 		<string name="device_info_default">Неизвестно</string>
@@ -7127,7 +7128,7 @@ LED-индикатора"</string>
 		<string name="ll_kb">Клавиатура:</string>
 		<string name="ll_disabled">Выключено</string>
 		<string name="ll_default">По умолчанию</string>
-		<string name="ll_save">Сохранить &amp; Применить</string>
+		<string name="ll_save">Сохранить и Применить</string>
 		<string name="ll_reload">Перезагр. текущий</string>
 		<string name="ll_bad_levels">Уровни должны увеличиваться</string>
 		<string name="ll_num_levels">Установить число уровней</string>
@@ -7389,10 +7390,10 @@ LED-индикатора"</string>
 		<string name="miui_user_agreement_title">Пользовательское соглашение</string>
 		<string name="miui_privacy_policy_title">Политика конфиденциальности</string>
 	</string-translations>
-	<string-translations FilePath="SettingsProvider\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="SettingsProvider">
 		<string name="app_label">Хранилище настроек</string>
 	</string-translations>
-	<string-translations FilePath="SideKick\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="SideKick">
 		<string name="sidekick_activity_label">Д. задач и поиск</string>
 		<string name="menu_preferences">Параметры поиска</string>
 		<string name="menu_history">История поиска</string>
@@ -7427,7 +7428,7 @@ LED-индикатора"</string>
 		<string name="recent_dialog_buttonAppKiller">Закрыть все</string>
 		<string name="recent_dialog_buttonTaskManager">Приложения</string>
 	</string-translations>
-	<string-translations FilePath="SoundRecorder\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="SoundRecorder">
 		<string name="app_name">Диктофон</string>
 		<string name="recording">Запись...</string>
 		<string name="recording_stopped">Запись остановлена</string>
@@ -7474,7 +7475,7 @@ LED-индикатора"</string>
 		<string name="dialog_delete">Удалить</string>
 		<string name="alert_message_delete_record">Вы хотите удалить запись?</string>
 	</string-translations>
-	<string-translations FilePath="Stk\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="Stk">
 		<string name="app_name">SIM-карта</string>
 		<string name="menu_end_session">Закончить сеанс</string>
 		<string name="help">Справка</string>
@@ -7492,7 +7493,7 @@ LED-индикатора"</string>
 		<string name="enable_app">Включено</string>
 		<string name="disable_app">Отключено</string>
 	</string-translations>
-	<string-translations FilePath="Superuser\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="Superuser">
 		<string name="app_name">Безопасность</string>
 		<string name="app_name_request">Запрос безопасности</string>
 		<string name="permlab_respond">ответ на запрос безопасности</string>
@@ -7558,7 +7559,7 @@ LED-индикатора"</string>
 		<string name="permisson_phone">"Телефон"</string>
 		<string name="permisson_phone_summary">Все телефонные привилегии</string>
 	</string-translations>
-	<string-translations FilePath="SystemUI\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="SystemUI">
 		<string name="app_label">Строка состояния</string>
 		<string name="status_bar_clear_all_button">Очистить уведомления</string>
 		<string name="status_bar_no_notifications_title">Нет уведомлений</string>
@@ -7595,13 +7596,13 @@ LED-индикатора"</string>
 		<string name="return_to_incall_screen">Нажмите, для возврата к вызову</string>
 		<string name="call_status_dialing">Вызов</string>
 	</string-translations>
-	<string-translations FilePath="TelephonyProvider\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="TelephonyProvider">
 		<string name="app_label">Хранилище данных</string>
 	</string-translations>
-	<string-translations FilePath="TelocationProvider\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="TelocationProvider">
 		<string name="app_label">Telocation Provider</string>
 	</string-translations>
-	<string-translations FilePath="ThemeManager\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="ThemeManager">
 		<string name="app_name">Темы</string>
 		<string name="theme_activity_lable">Темы</string>
 		<string name="theme_changing_dialog_title">Применение новой темы, пожалуйста,  подождите…</string>
@@ -7658,7 +7659,7 @@ LED-индикатора"</string>
 		<string name="old_format_convert_tip2">Ресурсы можно удалить и обновить до новой версии через загрузку</string>
 		<string name="apply_theme_font_tips">Новая библиотека шрифтов может вызвать неверное отображение некоторых приложений, перезагрузитесь для исправления этого эффекта</string>
 	</string-translations>
-	<string-translations FilePath="Torch\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="Torch">
 		<string name="app_name">Фонарик</string>
 		<string name="about">О программе:</string>
 		<string name="about_btn">О программе "Фонарик""</string>
@@ -7690,7 +7691,7 @@ LED-индикатора"</string>
 		<string name="widget_label">Фонарик</string>
 		<string name="torch_message">Фонарик можно быстро включить, удерживая [icon], на экране блокировки\n</string>
 	</string-translations>
-	<string-translations FilePath="Updater\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="Updater">
 		<string name="app_name">Обновления</string>
 		<string name="apply_now_button_text">Обновить</string>
 		<string name="view_details">Подробнее</string>
@@ -7791,7 +7792,7 @@ LED-индикатора"</string>
 		<string name="install_file_explorer">Установите приложение Файлы</string>
 		<string name="update_success_body_title">Прошивка успешно обновлена</string>
 	</string-translations>
-	<string-translations FilePath="Usb\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="Usb">
 		<string name="current_usb_state_file_name"/>
 		<string name="usb_toast_connecting">USB подключен как: %s.</string>
 		<string name="usb_toast_phone_data_disabled">Данные телефона отключены.</string>
@@ -7820,7 +7821,7 @@ LED-индикатора"</string>
 		<string name="usb_toast_insert_card">Вставьте карту памяти для медиа.</string>
 		<string name="usb_progress_message">"Перекл. на "</string>
 	</string-translations>
-	<string-translations FilePath="VoiceDialer\Files\res\values-ru\strings.xml">
+	<string-translations FilePath="VoiceDialer">
 		<string name="voiceDialer">Голосовой набор</string>
 		<string name="tool_tip_title">Знаете ли вы…</string>
 		<string name="tool_tip_message">Нажмите и удерживайте зеленую кнопку \"Вызов\", чтобы открыть Голосовой набор</string>
@@ -7844,7 +7845,7 @@ LED-индикатора"</string>
 		<string name="invalid_choice_tts">Неверный выбор</string>
 		<string name="goodbye_tts">До свидания</string>
 	</string-translations>
-	<arrays-translations FilePath="Backup\Files\res\values-ru\arrays.xml">
+	<arrays-translations FilePath="Backup">
 		<string-array name="backup_dialog_content_type">
 			<item>Параметры Wi-Fi</item>
 			<item>Все приложения</item>
@@ -7893,7 +7894,7 @@ LED-индикатора"</string>
 			<item>Сообщения</item>
 		</string-array>
 	</arrays-translations>
-	<arrays-translations FilePath="Browser\Files\res\values-ru\arrays.xml">
+	<arrays-translations FilePath="Browser">
 		<string-array name="bookmark_control_items">
 			<item>Создать папку</item>
 			<item>Создать закладку</item>
@@ -7986,7 +7987,7 @@ LED-индикатора"</string>
 			<item>Удалить</item>
 		</string-array>
 	</arrays-translations>
-	<arrays-translations FilePath="Calendar\Files\res\values-ru\arrays.xml">
+	<arrays-translations FilePath="Calendar">
 		<string-array name="reminder_minutes_labels">
 			<item>за 1 минуту</item>
 			<item>за 5 минут</item>
@@ -8164,7 +8165,7 @@ LED-индикатора"</string>
 			<item>никогда</item>
 		</string-array>
 	</arrays-translations>
-	<arrays-translations FilePath="Contacts\Files\res\values-ru\arrays.xml">
+	<arrays-translations FilePath="Contacts">
 		<string-array name="pick_photo_values">
 			<item>Из камеры</item>
 			<item>Из галереи</item>
@@ -8187,7 +8188,7 @@ LED-индикатора"</string>
 			<item>Всплывающие действия</item>
 		</string-array>
 	</arrays-translations>
-	<arrays-translations FilePath="ContactsProvider\Files\res\values-ru\arrays.xml">
+	<arrays-translations FilePath="ContactsProvider">
 		<string-array name="unrestricted_packages">
 			<item>com.android.contacts</item>
 			<item>com.facebook.katana</item>
@@ -8202,7 +8203,7 @@ LED-индикатора"</string>
 			<item>android</item>
 		</string-array>
 	</arrays-translations>
-	<arrays-translations FilePath="DeskClock\Files\res\values-ru\arrays.xml">
+	<arrays-translations FilePath="DeskClock">
 		<string-array name="alarm_set">
 			<item>До срабатывания будильника осталось меньше одной минуты</item>
 			<item>Будильник зазвонит через %1$s</item>
@@ -8244,7 +8245,7 @@ LED-индикатора"</string>
 			<item>60 минут</item>
 		</string-array>
 	</arrays-translations>
-	<arrays-translations FilePath="DownloadProviderUi\Files\res\values-ru\arrays.xml">
+	<arrays-translations FilePath="DownloadProviderUi">
 		<string-array name="download_filters">
 			<item>Все</item>
 			<item>Маркет</item>
@@ -8254,7 +8255,7 @@ LED-индикатора"</string>
 			<item>Другое</item>
 		</string-array>
 	</arrays-translations>
-	<arrays-translations FilePath="DSPManager\Files\res\values-ru\arrays.xml">
+	<arrays-translations FilePath="DSPManager">
 		<string-array name="headphone_modes">
 			<item>Студия</item>
 			<item>Комната</item>
@@ -8303,7 +8304,7 @@ LED-индикатора"</string>
 			<item>1000</item>
 		</string-array>
 	</arrays-translations>
-	<arrays-translations FilePath="framework-res\Files\res\values-ru-rRU\arrays.xml">
+	<arrays-translations FilePath="framework-res">
 		<string-array name="emailAddressTypes">
 			<item>Домашний</item>
 			<item>Рабочий</item>
@@ -8348,7 +8349,7 @@ LED-индикатора"</string>
 			<item>Свой</item>
 		</string-array>
 	</arrays-translations>
-	<arrays-translations FilePath="Gallery\Files\res\values-ru\arrays.xml">
+	<arrays-translations FilePath="Gallery">
 		<string-array name="animation">
 			<item>Нет</item>
 			<item>Угасание</item>
@@ -8360,7 +8361,7 @@ LED-индикатора"</string>
 			<item>Заполнение</item>
 		</string-array>
 	</arrays-translations>
-	<arrays-translations FilePath="MiuiMusic\Files\res\values-ru\arrays.xml">
+	<arrays-translations FilePath="MiuiMusic">
 		<string-array name="weeklist">
 			<item>1 неделя</item>
 			<item>2 недели</item>
@@ -8387,7 +8388,7 @@ LED-индикатора"</string>
 			<item>Рок</item>
 		</string-array>
 	</arrays-translations>
-	<arrays-translations FilePath="MIUIsettings\Files\res\values-ru\arrays.xml">
+	<arrays-translations FilePath="MIUIsettings">
 		<string-array name="am_pm_entries">
 			<item>Показать AM/PM</item>
 			<item>Скрыть AM/PM</item>
@@ -8417,7 +8418,7 @@ LED-индикатора"</string>
 			<item>Антенна и батарея слева</item>
 		</string-array>
 	</arrays-translations>
-	<arrays-translations FilePath="Mms\Files\res\values-ru\arrays.xml">
+	<arrays-translations FilePath="Mms">
 		<string-array name="prefEntries_ringtone_repeat">
 			<item>1 раз</item>
 			<item>2 раза</item>
@@ -8457,20 +8458,20 @@ LED-индикатора"</string>
 			<item>Никогда</item>
 		</string-array>
 	</arrays-translations>
-	<arrays-translations FilePath="Monitor\Files\res\values-ru\arrays.xml">
+	<arrays-translations FilePath="Monitor">
 		<string-array name="counter_names">
 			<item>Сегодня</item>
 			<item>За неделю</item>
 			<item>За месяц</item>
 		</string-array>
 	</arrays-translations>
-	<arrays-translations FilePath="Notes\Files\res\values-ru\arrays.xml">
+	<arrays-translations FilePath="Notes">
 		<string-array name="menu_share_ways">
 			<item>Сообщение</item>
 			<item>E-mail</item>
 		</string-array>
 	</arrays-translations>
-	<arrays-translations FilePath="Phone\Files\res\values-ru\arrays.xml">
+	<arrays-translations FilePath="Phone">
 		<string-array name="dialer_click_entries">
 			<item>Звонок</item>
 			<item>Просмотр контакта</item>
@@ -8554,7 +8555,7 @@ LED-индикатора"</string>
 			<item>Длинный</item>
 		</string-array>
 	</arrays-translations>
-	<arrays-translations FilePath="Settings\Files\res\values-ru\arrays.xml">
+	<arrays-translations FilePath="Settings">
 		<string-array name="timezone_filters">
 			<item>Американское</item>
 			<item>Европейское</item>
@@ -8852,7 +8853,7 @@ LED-индикатора"</string>
 			<item>90 %</item>
 		</string-array>
 	</arrays-translations>
-	<arrays-translations FilePath="Superuser\Files\res\values-ru\arrays.xml">
+	<arrays-translations FilePath="Superuser">
 		<string-array name="pref_tap_action_entries">
 			<item>Подробности</item>
 			<item>Удалить из списка</item>
@@ -8873,7 +8874,7 @@ LED-индикатора"</string>
 			<item>В список уведомлений</item>
 		</string-array>
 	</arrays-translations>
-	<plurals-translations FilePath="Browser\Files\res\values-ru\plurals.xml">
+	<plurals-translations FilePath="Browser">
 		<plurals name="matches_found">
 			<item quantity="other">%d совпадений</item>
 			<item quantity="zero">Нет совпадений</item>
@@ -8881,7 +8882,7 @@ LED-индикатора"</string>
 			<item quantity="few">%d совпадений</item>
 		</plurals>
 	</plurals-translations>
-	<plurals-translations FilePath="Calendar\Files\res\values-ru\plurals.xml">
+	<plurals-translations FilePath="Calendar">
 		<plurals name="Nminutes">
 			<item quantity="other">%d мин.</item>
 			<item quantity="one">1 минута</item>
@@ -8899,13 +8900,13 @@ LED-индикатора"</string>
 			<item quantity="one">1 день</item>
 		</plurals>
 	</plurals-translations>
-	<plurals-translations FilePath="CalendarProvider\Files\res\values-ru\plurals.xml">
+	<plurals-translations FilePath="CalendarProvider">
 		<plurals name="gadget_more_events">
 			<item quantity="other">Еще мероприятий: %d</item>
 			<item quantity="one">Еще одно мероприятие</item>
 		</plurals>
 	</plurals-translations>
-	<plurals-translations FilePath="Contacts\Files\res\values-ru\plurals.xml">
+	<plurals-translations FilePath="Contacts">
 		<plurals name="groupDescrip">
 			<item quantity="other">%0$d контактов</item>
 		</plurals>
@@ -8929,7 +8930,7 @@ LED-индикатора"</string>
 			<item quantity="one">Один контакт</item>
 		</plurals>
 	</plurals-translations>
-	<plurals-translations FilePath="Email\Files\res\values-ru\plurals.xml">
+	<plurals-translations FilePath="Email">
 		<plurals name="notification_new_one_account_fmt">
 			<item quantity="other">Непрочитанных: %1$d (%2$s)</item>
 			<item quantity="one">Непрочитанных: %1$d (%2$s)</item>
@@ -8948,7 +8949,7 @@ LED-индикатора"</string>
 			<item quantity="one">Результаты с %2$s (%1$d)</item>
 		</plurals>
 	</plurals-translations>
-	<plurals-translations FilePath="framework-res\Files\res\values-ru-rRU\plurals.xml">
+	<plurals-translations FilePath="framework-res">
 		<plurals name="num_seconds_ago">
 			<item quantity="other">%d с. назад</item>
 			<item quantity="one">секунду назад</item>
@@ -9061,7 +9062,7 @@ LED-индикатора"</string>
 			<item quantity="other">Полчаса назад</item>
 		</plurals>
 	</plurals-translations>
-	<plurals-translations FilePath="MiuiMusic\Files\res\values-ru\plurals.xml">
+	<plurals-translations FilePath="MiuiMusic">
 		<plurals name="Nsongs">
 			<item quantity="other">%d песен</item>
 		</plurals>
@@ -9085,7 +9086,7 @@ LED-индикатора"</string>
 			<item quantity="one">Песня добавлена в избранный лист</item>
 		</plurals>
 	</plurals-translations>
-	<plurals-translations FilePath="Mms\Files\res\values-ru\plurals.xml">
+	<plurals-translations FilePath="Mms">
 		<plurals name="slide_duration">
 			<item quantity="other">%s cек</item>
 			<item quantity="one">%s cек</item>
@@ -9096,7 +9097,7 @@ LED-индикатора"</string>
 			<item quantity="one">%1$s результат для \"%2$s\"</item>
 		</plurals>
 	</plurals-translations>
-	<plurals-translations FilePath="Phone\Files\res\values-ru\plurals.xml">
+	<plurals-translations FilePath="Phone">
 		<plurals name="phone_in_ecm_notification_time">
 			<item quantity="other">Нет соединения в течение %s минут</item>
 			<item quantity="one">Нет соединения в течение %s минут</item>
@@ -9110,4 +9111,4 @@ LED-индикатора"</string>
 			<item quantity="one">Выбранное действие недоступно в режиме экстренных вызовов. Телефон будет в этом режиме через %s минут. Хотите сейчас выйти?</item>
 		</plurals>
 	</plurals-translations>
-</>
+</Dictionary>
