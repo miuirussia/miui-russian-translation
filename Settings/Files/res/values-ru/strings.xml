@@ -189,7 +189,6 @@
 	<string name="date_and_time_settings_title">Настройки даты и времени</string>
 	<string name="date_time_auto">Автонастройка</string>
 	<string name="date_time_auto_summary">Эффективно только при использовании интернет или Wi-Fi подключения</string>
-	<string name="date_time_sync_when_startup_summary">Синхронизация времени при запуске системы</string>
 	<string name="date_time_sync_when_startup">Синхр. время при запуске</string>
 	<string name="date_time_24hour">24-часовой формат</string>
 	<string name="date_time_set_time">Настроить время</string>
@@ -1085,6 +1084,8 @@
 	<string name="status_bar_toggle_divider_list">Переключатели выше - активны</string>
 	<string name="menu_reset_toggle_settings">Сброс настроек</string>
 	<string name="status_bar_toggle_waiting">Устанавливается...</string>
+  <string name="expandable_under_fullscreen">при полном экране</string>
+  <string name="expandable_under_fullscreen_summary">выдвигать строку состояния</string>
 	<string name="network_category">Сеть</string>
 	<string name="system_hardware_category">Система и оборудование</string>
 	<string name="carrier_settings_title">Мобильная сеть</string>
@@ -1502,6 +1503,7 @@ LED-индикатора"</string>
 	<string name="pref_volume_wake_title">Разблокируют экран</string>
 	<string name="pref_volume_wake_summary">Нажатие на кнопки громкости (вверх/вниз) разблокирует ваше устройство. Рекомендуется при сломанной кнопке Питание</string>
 	<string name="settings_safetylegal_activity_unreachable">Телефон не подключен к службе передачи данных. Чтобы просмотреть эту информацию, откройте страницу %s на любом компьютере, подключенном к Интернету</string>
+  <string name="date_time_sync_when_startup_summary">Синхронизация времени при запуске системы</string>
 	<string name="master_clear_final_button_text">Удалить все</string>
 	<string name="miui_copyright_title">Авторские права</string>
 	<string name="miui_user_agreement_title">Пользовательское соглашение</string>

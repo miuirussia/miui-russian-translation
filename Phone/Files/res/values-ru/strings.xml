@@ -133,6 +133,13 @@
 	<string name="preferred_network_mode_title">Режим сети</string>
 	<string name="preferred_network_mode_summary">Изменить режим работы сети</string>
 	<string name="preferred_network_mode_dialogtitle">Режим предпочтительной сети</string>
+  <string name="preferred_network_mode_cdma">CDMA</string>
+  <string name="preferred_network_mode_gsm_umts">GSM/WCDMA</string>
+  <string name="preferred_network_type_entries_global">Глобальный</string>
+  <string name="preferred_network_type_entries_3g_preferred">3G предпочтительно</string>
+  <string name="preferred_network_type_entries_auto">Автоматический</string>
+  <string name="preferred_network_type_entries_only_2g">Только 2G (энергосбережение)</string>
+  <string name="preferred_network_type_entries_only_3g">Только 3G</string>
 	<string name="data_enabled">Передача данных</string>
 	<string name="data_enable_summary">Разрешить передачу данных по сети мобильной связи</string>
 	<string name="roaming">Интернет-роуминг</string>
@@ -295,11 +302,6 @@
 	<string name="label_puk_code">Введите PUK-код</string>
 	<string name="puk_lock_warning">"
 Обратите внимание, что SIM-карта полностью заблокируется, если вы введете код неверно еще раз!"</string>
-	<string name="pin2_lock_warning"/>
-	<string name="invalid_new_pin"/>
-	<string name="invalid_new_pin2"/>
-	<string name="invalid_puk"/>
-	<string name="pin2_locked_message"/>
 	<string name="bad_puk">PUK-код введен неправильно. Пожалуйста, попробуйте еще раз</string>
 	<string name="caller_manage_manage_done_text">Вернуться к вызову</string>
 	<string name="fake_phone_activity_phoneNumber_text">+7 (123) 123-4567</string>
@@ -412,6 +414,7 @@
 	<string name="notification_ongoing_calling_format">Вызываю (%s)</string>
 	<string name="sliding_target_hint">Сдвиньте вверх, для отклонения/отправки смс</string>
 	<string name="sliding_down_hint">Сдвиньте вниз для ответа</string>
+  <string name="sliding_up_hint">Сдвиньте вверх, чтобы отклонить</string>
 	<string name="answer">Ответ</string>
 	<string name="answer_and_hangup">Окончание вызова и ответ</string>
 	<string name="hangup">Отклонить</string>
@@ -532,10 +535,6 @@
 	<string name="voice_quality_ui_values_clear">Чистый</string>
 	<string name="voice_quality_ui_values_crisp">Хрустящий</string>
 	<string name="voice_quality_ui_values_bright">Яркий</string>
-	<string name="prefered_network_type_pref_entries_3g_prefered">Предпочтительно 3G</string>
-	<string name="prefered_network_type_pref_entries_auto">Автоматически</string>
-	<string name="prefered_network_type_pref_entries_only_2g">Только 2G (энергосбережение)</string>
-	<string name="prefered_network_type_pref_entries_only_3g">Только 3G</string>
 	<string name="pin_progress_set_icc_lock">Настройка МТП состояния блокировки...</string>
 	<string name="pin_progress_set_fdn_lock">Настройка FDN состояния блокировки...</string>
 	<string name="pin_progress_change_pin">Изменение PIN-кода...</string>
@@ -649,12 +648,11 @@
 	<string name="check_nothing">Отменить все</string>
 	<string name="deleting_message">Удаление...</string>
 	<string name="confirm_delete_message_title">Вы удалите %d выбранных приставок сообщений</string>
+  <string name="enable_telocation_title">Показать свойства для номера</string>
 	<string name="pref_custom_location_title">Настройка приставок</string>
 	<string name="pref_custom_location_summary">Настройка региональных приставок и количество приставок</string>
 	<string name="pref_edit_custom_location_title">Редактировать</string>
 	<string name="number_format_error_message">%s поддерживает только номера</string>
 	<string name="jituan_number_format_error_message">%s поддерживает только цифры и символы</string>
 	<string name="enter_edit_mode">Удалить</string>
-	<string name="allow_3rd_app_listen_phone_event_title">Сторонние приложения</string>
-	<string name="allow_3rd_app_listen_phone_event_summary">Запретить сторонним приложениям использовать телефон</string>
 </resources>
