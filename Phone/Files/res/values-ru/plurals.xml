@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="phone_in_ecm_notification_time">
         <item quantity="other">Нет соединения в течение %s минут</item>

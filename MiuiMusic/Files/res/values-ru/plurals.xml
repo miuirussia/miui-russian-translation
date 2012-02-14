@@ -1,10 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Nsongs">
         <item quantity="other">%d песен</item>
-    </plurals>
-    <plurals name="Nsongscomp">
-        <item quantity="other">Всего %1$d песен, которые %2$d сначала</item>
     </plurals>
     <plurals name="Nalbums">
         <item quantity="other">%d альбом</item>
@@ -21,5 +18,8 @@
     <plurals name="NNNtrackstofavoriteplaylist">
         <item quantity="other">%d песен добавлено в избранный лист</item>
         <item quantity="one">Песня добавлена в избранный лист</item>
+    </plurals>
+    <plurals name="Nsongscomp">
+        <item quantity="other">Всего %1$d песен, которые %2$d сначала</item>
     </plurals>
 </resources>
