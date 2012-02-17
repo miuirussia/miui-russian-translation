@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="pick_photo_values">
-        <item>Из камеры</item>
-        <item>Из галереи</item>
-        <item>Встроенные</item>
-        <item>По умолчанию</item>
-    </string-array>
-    <string-array name="pick_incoming_call_photo_values">
-        <item>Из камеры</item>
-        <item>Из галереи</item>
-    </string-array>
-    <string-array name="edit_incoming_call_photo_values">
-        <item>Из камеры</item>
-        <item>Из галереи</item>
-        <item>Большая фотография</item>
-        <item>Удалить</item>
-    </string-array>
-    <string-array name="click_shortcut_entries">
-        <item>Звонок</item>
-        <item>Просмотр контакта</item>
-        <item>Всплывающие действия</item>
-    </string-array>
+<!--Created with Android Translaton Wizard v0.0.0.165--><resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
+	<string-array name="pick_photo_values">
+		<item>Из камеры</item>
+		<item>Из галереи</item>
+		<item>Встроенные</item>
+		<item>По умолчанию</item>
+	</string-array>
+	<string-array name="pick_incoming_call_photo_values">
+		<item>Из камеры</item>
+		<item>Из галереи</item>
+	</string-array>
+	<string-array name="edit_incoming_call_photo_values">
+		<item>Из камеры</item>
+		<item>Из галереи</item>
+		<item>Большая фотография</item>
+		<item>Удалить</item>
+	</string-array>
+	<string-array name="click_shortcut_entries">
+		<item>Звонок</item>
+		<item>Просмотр контакта</item>
+		<item>Всплывающие действия</item>
+	</string-array>
 </resources>

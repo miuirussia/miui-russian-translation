@@ -1,94 +1,94 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="bookmark_control_items">
-        <item>Создать папку</item>
-        <item>Создать закладку</item>
-        <item>Импорт закладок</item>
-        <item>Экспорт закладок</item>
-    </string-array>
-    <string-array name="not_found_page_titles">
-        <item>Страница не найдена</item>
-    </string-array>
-    <string-array name="pref_load_images_choice">
-        <item>Включено</item>
-        <item>Выключено</item>
-        <item>Включено при Wi-Fi</item>
-    </string-array>
-    <string-array name="pref_volume_setting_choice">
-        <item>Стандартно</item>
-        <item>Прокрутка</item>
-        <item>Переключение вкладок</item>
-    </string-array>
-    <string-array name="pref_volume_setting_enable_choice">
-        <item>Всегда применять настройки громкости</item>
-        <item>Применять если не играет музыка</item>
-    </string-array>
-    <string-array name="barcon_operation_items">
-        <item>Редактировать</item>
-        <item>Удалить</item>
-    </string-array>
-    <string-array name="pref_reading_mode_choices">
-        <item>Входить автоматически</item>
-        <item>Входить вручную</item>
-        <item>Выключено</item>
-    </string-array>
-    <string-array name="pref_forum_mode_choices">
-        <item>Входить автоматически</item>
-        <item>Входить вручную</item>
-        <item>Выключено</item>
-    </string-array>
-    <string-array name="pref_content_plugins_choices">
-        <item>Всегда</item>
-        <item>Никогда</item>
-        <item>По запросу</item>
-    </string-array>
-    <string-array name="pref_text_size_choices">
-        <item>Маленький</item>
-        <item>Нормальный</item>
-        <item>Большой</item>
-        <item>Гигантский</item>
-    </string-array>
-    <string-array name="pref_hide_buttons_in_fullscreen_choices">
-        <item>Отображать</item>
-        <item>Скрыть вперед/назад в полноэкранном режиме</item>
-        <item>Скрывать автоматически</item>
-        <item>Никогда не показывать кнопки</item>
-    </string-array>
-    <string-array name="pref_hide_statusbar_choices">
-        <item>Показывать</item>
-        <item>Скрывать</item>
-        <item>Автоматически</item>
-    </string-array>
-    <string-array name="pref_simple_mode_choices">
-        <item>Выключено</item>
-        <item>Включено</item>
-        <item>Включено при мобильном соединении</item>
-    </string-array>
-    <string-array name="pref_default_zoom_choices">
-        <item>Далеко</item>
-        <item>Средне</item>
-        <item>Близко</item>
-    </string-array>
-    <string-array name="pref_user_agent_choices">
-        <item>По умолчанию</item>
-        <item>Chrome Desktop</item>
-        <item>iPhone 3</item>
-        <item>iPhone 4</item>
-        <item>iPad</item>
-    </string-array>
-    <string-array name="pref_left_right_gesture_choices">
-        <item>Ничего</item>
-        <item>Назад/Вперед</item>
-        <item>Переключить вкладки</item>
-    </string-array>
-    <string-array name="pref_single_click_choices">
-        <item>Открыть ссылку в текущей вкладке</item>
-        <item>Открыть ссылку в новой вкладке и переключаться</item>
-        <item>Открыть ссылку в новой вкладке в фоновом режиме</item>
-    </string-array>
-    <string-array name="pref_long_click_choices">
-        <item>Показать контекстное меню</item>
-        <item>Открыть ссылку в новой вкладке и переключаться</item>
-        <item>Открыть ссылку в новой вкладке в фоновом режиме</item>
-    </string-array>
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Created with Android Translaton Wizard v0.0.0.165--><resources>
+	<string-array name="bookmark_control_items">
+		<item>Создать папку</item>
+		<item>Создать закладку</item>
+		<item>Импорт закладок</item>
+		<item>Экспорт закладок</item>
+	</string-array>
+	<string-array name="not_found_page_titles">
+		<item>Страница не найдена</item>
+	</string-array>
+	<string-array name="pref_load_images_choice">
+		<item>Включено</item>
+		<item>Выключено</item>
+		<item>Включено при Wi-Fi</item>
+	</string-array>
+	<string-array name="pref_volume_setting_choice">
+		<item>Стандартно</item>
+		<item>Прокрутка</item>
+		<item>Переключение вкладок</item>
+	</string-array>
+	<string-array name="pref_volume_setting_enable_choice">
+		<item>Всегда применять настройки громкости</item>
+		<item>Применять если не играет музыка</item>
+	</string-array>
+	<string-array name="pref_reading_mode_choices">
+		<item>Входить автоматически</item>
+		<item>Входить вручную</item>
+		<item>Выключено</item>
+	</string-array>
+	<string-array name="pref_forum_mode_choices">
+		<item>Входить автоматически</item>
+		<item>Входить вручную</item>
+		<item>Выключено</item>
+	</string-array>
+	<string-array name="pref_content_plugins_choices">
+		<item>Всегда</item>
+		<item>Никогда</item>
+		<item>По запросу</item>
+	</string-array>
+	<string-array name="pref_text_size_choices">
+		<item>Маленький</item>
+		<item>Нормальный</item>
+		<item>Большой</item>
+		<item>Гигантский</item>
+	</string-array>
+	<string-array name="pref_hide_buttons_in_fullscreen_choices">
+		<item>Отображать</item>
+		<item>Скрыть вперед/назад в полноэкранном режиме</item>
+		<item>Скрывать автоматически</item>
+		<item>Никогда не показывать кнопки</item>
+	</string-array>
+	<string-array name="pref_hide_statusbar_choices">
+		<item>Показывать</item>
+		<item>Скрывать</item>
+		<item>Автоматически</item>
+	</string-array>
+	<string-array name="pref_simple_mode_choices">
+		<item>Выключено</item>
+		<item>Включено</item>
+		<item>Включено при мобильном соединении</item>
+	</string-array>
+	<string-array name="pref_default_zoom_choices">
+		<item>Далеко</item>
+		<item>Средне</item>
+		<item>Близко</item>
+	</string-array>
+	<string-array name="pref_user_agent_choices">
+		<item>По умолчанию</item>
+		<item>Chrome Desktop</item>
+		<item>iPhone 3</item>
+		<item>iPhone 4</item>
+		<item>iPad</item>
+	</string-array>
+	<string-array name="pref_left_right_gesture_choices">
+		<item>Ничего</item>
+		<item>Назад/Вперед</item>
+		<item>Переключить вкладки</item>
+	</string-array>
+	<string-array name="pref_single_click_choices">
+		<item>Открыть ссылку в текущей вкладке</item>
+		<item>Открыть ссылку в новой вкладке и переключаться</item>
+		<item>Открыть ссылку в новой вкладке в фоновом режиме</item>
+	</string-array>
+	<string-array name="pref_long_click_choices">
+		<item>Показать контекстное меню</item>
+		<item>Открыть ссылку в новой вкладке и переключаться</item>
+		<item>Открыть ссылку в новой вкладке в фоновом режиме</item>
+	</string-array>
+	<string-array name="barcon_operation_items">
+		<item>Редактировать</item>
+		<item>Удалить</item>
+	</string-array>
 </resources>
